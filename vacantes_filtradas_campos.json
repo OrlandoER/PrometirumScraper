@@ -1,0 +1,3512 @@
+[
+    {
+        "empresa": "Suburbia",
+        "vacante": "Becarix de Desarrollo de Talento",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Presencial",
+        "sueldo": 8250,
+        "actividades": [
+            "Co crear y administrar tableros de información de los programas que coordina el área",
+            "Programación y adecuación de las actividades de los semilleros",
+            "Gestionar aplicación y control de resultados de pruebas psicométricas",
+            "Apoyo en elaboración de bases y reportes de talento",
+            "Apoyo en procesos de reclutamientos y desarrollo de talento",
+            "Gestionar y adecuar instrumentos de evaluación de experiencias programas y semilleros",
+            "Investigación de nuevas prácticas de talento para generar mejores experiencias",
+            "Habilitación y capacitación en: métodos de evaluación de talento, indicadores del área, nuevas prácticas, tendencias, programas, sucesión"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Desarrollo organizacional",
+            "Psicología",
+            "Ingeniería industrial",
+            "Afin"
+        ],
+        "habilidades": [
+            "Canva",
+            "Programas de diseño"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Finance Intern ",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Reporting, manejo de dashboards",
+            "Seguimiento a KPIs",
+            "Capacitación a diferentes paises "
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Finanzas",
+            "Actuaria",
+            "Administracion de empresas",
+            "Economia",
+            "Contabilidad",
+            "Ing. industrial",
+            "Afin"
+        ],
+        "habilidades": [
+            "Power BI",
+            "Dashboards"
+        ]
+    },
+    {
+        "empresa": "Havas Media",
+        "vacante": "Trainee de IT",
+        "duracion": "12 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Híbrido",
+        "sueldo": 10000,
+        "actividades": [
+            "Brindar asistencia y/o soporte a empleados o clientes.",
+            "Verificación de funcionamiento de software MAC y Windows.",
+            "Elaborar informes sobre el estado de los equipos y sistemas. ",
+            "Actualización de inventarios. "
+        ],
+        "comentarios": "\nRevisan temas con proveedores.\nSon aplicaciones que están en los equipos de la empresa. \n",
+        "carreras": [
+            "Ingeniería en Sistemas Computacionales",
+            "Licenciatura en Informática",
+            "Ingeniería en Tecnologías y Sistemas de la Información",
+            "Afines"
+        ],
+        "habilidades": [
+            "Office 365",
+            "Intune",
+            "JAMF",
+            "Sentinel One",
+            "MAC",
+            "Windows"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Becarix de Seguridad e Higiene y Medio Ambiente",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Seguimiento de KPIs de seguridad  vs avance de planes de acción de los sitios.",
+            "Seguimiento de KPIs de Waste y biodiversidad vs proyectos.",
+            "Verificación plataforma LIM (Reporte accidentes e incidentes del grupo) para confirmar registro de eventos y actualización de RCA y Comunicación.",
+            "Elaboración reporte de los KPIs y propuesta de acciones en caso de desviaciones.",
+            "Reunión con los sitios para realizar FUP de los proyectos y avances de los tópicos específicos de su alcance.",
+            "Acompañamiento en visitas de Audit en planta, DC, Sitio administrativo de la CDMX."
+        ],
+        "comentarios": "tratamiento de residuos, proyectos para tratarlos, areas verdes en plantas, seguimiento de proyectos, follow up con las plantas nivel LATAM, reuniones mensuales de indicadores \nasistirán ocasionalmente a planta Xochimilco aprox 3 veces al mes, si es temporada de auditoria un poco mas, depende la demanda. \nHO mas frecuente",
+        "carreras": [
+            "Ingeniería industrial",
+            "Ingeniería Ambiental",
+            "Ing. Desarrollo sustentable",
+            "Lic. Sustentabilidad Ambiental",
+            "Licenciatura en Responsabilidad Social y Sustentabilidad",
+            "Licenciatura en Gestión Ambiental",
+            "Ecología",
+            "Afin"
+        ],
+        "habilidades": [
+            "Power BI",
+            "Canva"
+        ]
+    },
+    {
+        "empresa": "GEMEX",
+        "vacante": "Becarix ambiental ",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 10000,
+        "actividades": [
+            "Diseño, implementación y seguimiento de la estrategia ESG",
+            "Prefactibilidades ambientales, gestión de trámites ambientales, apoyo en elaboración, integración, impresión, escaneo y transcripción de documentos en materia ambiental,",
+            "Realización de informes "
+        ],
+        "comentarios": "ESG: Environmental, Social, Governance\n1HO jueves",
+        "carreras": [
+            "Ing. Ambiental",
+            "Biología",
+            "Sustentabilidad"
+        ],
+        "habilidades": [
+            "Paquetería Office.",
+            "Manejo de Sistemas de Información Geográfica.",
+            "Conocimiento en sostenibilidad: Estrategia ESG",
+            "Conocimiento en materia de impacto ambiental",
+            "Conocimiento de autorizaciones de impacto ambiental.",
+            "Conocimiento en la realización de informes de cumplimiento."
+        ]
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Collection and Credit Risk Mangement Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Manejo y seguimiento de las principales iniciativas y proyectos del área de O2C",
+            " Dirigir, coordinar y apoyar en la logística de proyectos",
+            "Revisión de y seguimiento a Collection con los Clientes asignados, apoya a los Collectors en reportes y estadísticas de la Cartera, presentación de avance de proyectos",
+            "Elaboración de PPT y contenido para el área"
+        ],
+        "comentarios": "lunes y martes presenciales y día adicional flexible \nExcel intermedio- avanzado, tablas dinamicas, plus macros\nEnfoque numerico, seguimientos con clientes, asignación de tareas \nautodidactas, sentido de responsabilidad, organización  y trabajo bajo presión ",
+        "carreras": [
+            "Finanzas",
+            "Administracion de empresas",
+            "Economia",
+            "Contabilidad",
+            "Ing. Industrial",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Stellantis",
+        "vacante": " Commercial Intern",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Home Office",
+        "sueldo": 7300,
+        "actividades": [
+            "Seguimiento a tareas, archivos y sistemas ",
+            "Soporte en actividades de Sourcing, ahorros y reclamos de proveedor",
+            "Seguimiento a contratos y ordenes de compra"
+        ],
+        "comentarios": "7:30 - 13:30\n",
+        "carreras": [
+            "Ing Industrial",
+            "Lic. Administración",
+            "Afín"
+        ],
+        "habilidades": [
+            "SAP",
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Intern Digital Data",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Realizar análisis de resultados de las campañas digitales.",
+            "Generar dashboards en Looker Studio y Power BI.",
+            "Desarrollar informes diarios y semanales.",
+            "Apoyar de manera general al área."
+        ],
+        "comentarios": "martes van a la ofi pero a veces puede ser los jueves\nQue cubran horario de 6hrs dentro de las 8 am a 6 pm\nAceptan inglés básico",
+        "carreras": [
+            "Lic. Actuaría",
+            "Lic. Finanzas",
+            "Lic. Mercdotecnia",
+            "Ing. Ciencia de Datos",
+            "Lic. Economía",
+            "Afín"
+        ],
+        "habilidades": [
+            "Power BI",
+            "Google Analytics",
+            "Python"
+        ]
+    },
+    {
+        "empresa": "Roche",
+        "vacante": "Becarix de Crédito y Cobranza",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Tener comunicación diaria con los clientes internos involucrados con los pedidos para realizar una reingeniería de acuerdo a las necesidades de los clientes internos y para el beneficio de la compañía.",
+            "Involucrarse con las garantías y LC de los clientes con la finalidad de mantener el control, el seguimiento y la actualización de los mismos de acuerdo a política. ",
+            "Hacer eficiente el proceso de proceso de master data para tener un control de los movimientos de este proceso",
+            "Archivo actualizado de LC vs Garantías de los clientes que así lo requieran y de Master ",
+            "Data de acuerdo a los requerimientos internos."
+        ],
+        "comentarios": "Dirección: Cerrada de Bezares 9, colonia Lomas de Bezares, alcaldía de Miguel Hidalgo, C.P. 11910, Ciudad de México, México.\nHíbrido: 3 días presencial (regularmente van lunes, martes y jueves)\nExcel: tablas dinámicas, tablas, formulas, gráficas.",
+        "carreras": [
+            "Administración",
+            "Ingenierías",
+            "Economía",
+            "Contaduría"
+        ],
+        "habilidades": [
+            "SAP"
+        ]
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": " Becarix Real Estate Procurement ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Alta y cambio de proveedores",
+            "Desarrollo de reportes de gasto y tendencias de compra",
+            "Análisis de los reportes",
+            "Respuesta a requerimientos de proveedores y/o usuarios "
+        ],
+        "comentarios": "2 dias oficina 3 HO.\n",
+        "carreras": [
+            "Administración",
+            "Finanzas",
+            "Economia",
+            "Dirección de empresas",
+            "Negocios Internacionales",
+            "Ing. industrial",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Boehringer Ingelheim",
+        "vacante": "Becarix de Producción",
+        "duracion": "12 meses",
+        "lugar": "Xochimilco",
+        "modalidad": "Presencial",
+        "sueldo": 8500,
+        "actividades": [
+            "Mapeo de velocidades por línea de acondicionamiento.",
+            "Analisis de fallas por línea de acondicionamiento , logrando identificar las fallas que nos aportan el 80% de las perdidas.",
+            "Análisis de OP vs situación real en piso.",
+            "Tendencia de fallas mensual en líneas de acondicionamiento.",
+            "Efectividad de los cambios ejecutados por mantenimiento y justes en líneas de acondicionamiento "
+        ],
+        "comentarios": "C. . Maíz 49, Xaltocan, Xochimilco, 16090 Ciudad de México, CDMX.\nModalidad Presencial con flexibilidad\nExcel: tablas dinámicas, gráficos dinámicos, análisis de tendencias, macros (ideal)\nFecha de entrega: 28 mayo 2024\n",
+        "carreras": [
+            "Ing. Industrial",
+            "Ing. Química",
+            "Ing. Mecánico"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Visio",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Servnet",
+        "vacante": "Becario de Operaciones | Telecomunicaciones",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 6000,
+        "actividades": [
+            "Crear y diseñar planos en Autocad 2D y 3D para proyectos de ingeniería de fibra óptica. Seguimiento de planos enviados a CFE por medios electrónicos.",
+            "Realizar modificaciones y ajustes en los planos según las especificaciones del proyecto.",
+            "Coordinar con otros departamentos o personal para asegurar la correcta implementación de los diseños.",
+            "Capacidad de análisis e interpretación de planos.",
+            "Realizar proyectos de ingeniería, planos, mapas, diagramas, gráficos, memorias técnicas y fotográficas a fin de contribuir con el desarrollo de los proyectos del área de planta externa e interna.",
+            "Generar propuestas eficientes y enfocadas a la satisfacción de nuestros clientes."
+        ],
+        "comentarios": "Con opción a 12 meses. AtocCad Indispensable, Conocimiento de Visio. \nPresencial 100%",
+        "carreras": [
+            "Arquitectura",
+            "Diseño",
+            "Ingeniería mecánica",
+            "Ing. civil",
+            "ing. Telecomunicaciones",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Visio",
+            "Office workspace",
+            "Sistemas operativos Windows.",
+            "Google Earth y Mapas",
+            "AutoCAD"
+        ]
+    },
+    {
+        "empresa": "Empresa Aliada",
+        "vacante": "Consumer Experience Intern",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Seguimiento a la correcta implementación de los programas en las llamadas para garantizar la experiencia del consumidor.",
+            "Ayudar al análisis de datos, para que las métricas estén correctas y actualizadas.",
+            "Funciones administrativas (órdenes de compra, gestión del stock, etc.)."
+        ],
+        "comentarios": "Dependiendo operación, martes y jueves\nPreferencia inglés avanzado o fluido, jefe extranjero",
+        "carreras": [
+            "Lic. Mercadotecnia",
+            "Lic. Comunicación",
+            "Lic. Publicidad",
+            "Lic. Administración de Empresas",
+            "Ing. Industrial",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Becario de Preventa de Proyectos de Automatización",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Analizar el Procedimiento Operativo Estándar (SOP) y apoyar las tareas del equipo.",
+            "Proyecto de ciclo de implementación corto (2 meses) basado en la observación.",
+            "Identificar KPI afectados, el resultado esperado y permitir la realización de pruebas en las actividades diarias."
+        ],
+        "comentarios": "Portugués (Deseable, plus) Conocimientos deseables, generación de propuestas en estimación y oferta, Cotizaciones colaborando con estimadores acerca de proyectos, ventas - Soporte de P&E - Negocios - Cliente Final.",
+        "carreras": [
+            "Ing. Control y Automatización",
+            "Ing. Industrial",
+            "Ing. Químico Industrial",
+            "Ing. Electrónica",
+            "Ing. Mecatrónica",
+            "Ing. Sistemas",
+            "Afín"
+        ],
+        "habilidades": [
+            "PLC",
+            "Sistema de control distribuido",
+            "Instrumentación Industrial"
+        ]
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Product Marketing Scholar",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Interacción con diferentes áreas, como logística, servicio al cliente, ventas, certificación y comunicación, así como el equipo global de producto y de marketing digital.",
+            "Gestión de artículos de merchandising, solicitud y el seguimiento de muestras de productos para los clientes.",
+            "Actualizar los materiales de apoyo: presentaciones comerciales, de productos y folletos.",
+            "Contacto primario con ventas, ayudando con la información de productos con fin de ciclo y productos de reemplazo.",
+            "Apoyo a los eventos Tech Days con los clientes."
+        ],
+        "comentarios": "2 días Home Office  / 3 días en Oficina",
+        "carreras": [
+            "Lic. Administración",
+            "Lic. Marketing",
+            "Ingenierías interesadas"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Becario de Sistemas Embebidos",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Programación C/C++ en Embedded Linux.",
+            "Control de versiones de software (GIT).",
+            "Pruebas unitarias (unit testing).",
+            "Pruebas de Integración (integration testing)."
+        ],
+        "comentarios": "IPN, Tec de Mty, La Salle, UAM y UNAM.",
+        "carreras": [
+            "Electrónico",
+            "Eléctrico",
+            "Biomédico",
+            "Biónica",
+            "Sistemas Computacionales",
+            "Sistemas",
+            "Electrónica y Comunicaciones",
+            "Sistemas Inteligentes",
+            "Cibernética",
+            "Robótica",
+            "Mecatrónica",
+            "Computación",
+            "Telemática",
+            "Ingeniería afin"
+        ],
+        "habilidades": [
+            "Programación C/C++",
+            "Embedded Linux",
+            "Microcontroladores",
+            "Device Drivers",
+            "Networking Systems"
+        ]
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Becario de Pruebas",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Diseño de pruebas y codificación de Scripts para automatización usando Robot Framework y Python.",
+            "Reporte de ejecución de pruebas y creación de planes de prueba.",
+            "Documentación de defectos/bugs.",
+            "Pruebas en paneles de alarmas contra incendios."
+        ],
+        "comentarios": "IPN, Tec de Mty, La Salle, UAM y UNAM.\núltimo semestre en caso de tener oportunidades de contratación.",
+        "carreras": [
+            "Electrónico",
+            "Eléctrico",
+            "Biomédico",
+            "Biónica",
+            "Sistemas Computacionales",
+            "Sistemas",
+            "Electrónica y Comunicaciones",
+            "Sistemas Inteligentes",
+            "Cibernética",
+            "Robótica",
+            "Mecatrónica",
+            "Computación",
+            "Telemática",
+            "Ingeniería afin"
+        ],
+        "habilidades": [
+            "Programación Robot Framework",
+            "Python",
+            "Bash Scripting",
+            "Scripting para Test Automation",
+            "Embedded Linux"
+        ]
+    },
+    {
+        "empresa": "KRONES",
+        "vacante": "Becarix de Compras.",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Actualización y gestión adecuada de la documentación para el alta de proveedores.",
+            "Mantenimiento a los proveedores actuales, dejando los procesos y procedimientos adecuados para su correcto ciclo de vida.",
+            "Seguir las buenas practicas de ley anticorrupción y due dilligence, asegurando así la confiabilidad de los proveedores que Krones Mex está trabajando.",
+            "Desarrollar un cuestionario a proveedores que ayudará a obtener más puntos del programa ESR."
+        ],
+        "comentarios": "Ubicación: Avenida Jaime Balmes, 8, Polanco sección 1, Miguel Hidalgo CP: 11510.\nSe les hará una prueba de Excel para demostrar el nivel que poseen. ",
+        "carreras": [
+            "Comercio Internacional",
+            "Administración",
+            "Ingeniería Industrial"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Atmósfera Estrategia Financiera",
+        "vacante": "Becarix de Procesos",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 6000,
+        "actividades": [
+            "Levantamiento de Información para definición de los procesos de la empresa. ",
+            "Análisis y comparación de las operaciones realizadas vs el proceso documentado. ",
+            "Integrar la documentación de los procesos de negocio obtenida a través de entrevistas.",
+            " Redacción y corrección de manuales operativos de la empresa. ",
+            "Identificar y estructurar mejoras a procesos."
+        ],
+        "comentarios": "Buena redacción en Word, Conocimiento deseable en Visio, Ortografía, ‐\nConocimientos básicos en metodologías de sistemas de gestión de calidad, análisis\ny diseño de procesos de negocio y ciclos de mejora continua, análisis, pensamiento\nlógico y estructurado, proactividad, organización, facilidad de palabra, seguridad.",
+        "carreras": [
+            "Administración",
+            "Ingeniería Industrial"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Gerdau Corsa",
+        "vacante": "Programa de Becarios G. Start (CDMX)",
+        "duracion": "24 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 6500,
+        "actividades": [
+            "Participar en proyectos desafiantes.",
+            "Contribuir a la cultura de Responsabilidad Social Empresarial (RSE)",
+            "Aprender los líderes en el sector de la Industria Siderúrgica"
+        ],
+        "comentarios": "-",
+        "carreras": [
+            "Ing. Metalurgía",
+            "Ing. Industrial",
+            "Administración Industrial",
+            "Ing. Quimica",
+            "Logística",
+            "Negocios",
+            "Admin de Empresas",
+            "etc",
+            "Recursos Humanos",
+            "Finanzas"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Germination",
+        "vacante": "Practicante de Servicio Técnico ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8830,
+        "actividades": [
+            "Revisar historial  de servicios técnicos en plataforma Sales Force",
+            "Registrar caso en Salesforce especificando el tipo de servicio a realizarse con base en los reporte\t",
+            "Recepción de cotización ",
+            "Validar refacciones a asignar en los mantenimientos correctivos y criterios según política",
+            "Confirmar las citas con clientes ",
+            "Dar status al equipo de ventas de  los servicios",
+            "Validar que el cliente conteste la encuesta de satisfacción."
+        ],
+        "comentarios": "3 días en la oficina (flexible)\nMartín Neri. | martin.neri@bayer.com | Bayer Polanco: Blvd. Miguel de Cervantes Saavedra 259, Granada, Miguel Hidalgo, 11520 Ciudad de México, CDMX | División: Pharmaceuticals | Área: Radiology | CeCo: MX65H10101 | CWID: GBZKI.",
+        "carreras": [
+            "Ingeniería Biomédica",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Power BI",
+            "Plataformas de CRM",
+            "SAP (deseable)"
+        ]
+    },
+    {
+        "empresa": "3Prime México",
+        "vacante": "Becarix Administrativo ",
+        "duracion": "12 meses",
+        "lugar": "Benito Juárez",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Alta a proveedores y Actualización de contratos proveedores",
+            "Altas y bajas de empleados en portal digital de gestión RH",
+            "Facturación de gastos de la agencia",
+            "Gestión de reembolsos a empleados mensual",
+            "Gestión de mensajería y Recepción de visitantes"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Administración",
+            "Ing. Industrial",
+            "afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Becarix de Finanzas de Operaciones",
+        "duracion": "12 meses",
+        "lugar": "Xochimilco",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Reporting financiero de Vracks",
+            "Conciliación de Hrs productivas",
+            "Reporting de eficacia"
+        ],
+        "comentarios": "realizaran cotizaciones, presupuestos. \nMacros deseables. \nPerfiles dinámicos\ningles intermedio-avanzado\nAseguramiento de carga de budgets \nintervención con almacenes/ inventarios \nclaridad de presupuestos\ntendencias de horas productivas para presupuestos",
+        "carreras": [
+            "Finanzas",
+            "Economia",
+            "Ing. Industrial",
+            "Administracion de empresas",
+            "Afin"
+        ],
+        "habilidades": [
+            "Dashboards",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Costumer Care Intern",
+        "duracion": "12 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Asegurar la resolución de escenarios y/o escalamientos a consumidores de PMI.",
+            "Generar reportes y análisis que permitan la toma de decisiones precisas para la mejora de la experiencia del consumidor.",
+            "Administración de registros, cancelaciones y cambios en las cuentas de Customer Service Center.",
+            "Auditoria aleatoria de casos de consumidores para asegurar la ejecución correcta de los procesos.",
+            "Escalar y garantizar el seguimiento correcto de los problemas actuales y atípicos en el equipo de operaciones."
+        ],
+        "comentarios": "Algunos dias a condesa, por operacion cc 1 vez a la semana \ningles basico puede, leer y conversacion basica",
+        "carreras": [
+            "Ing. Industrial",
+            "Lic. Administración de Empresas",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Merch Intern",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Manejo y análisis de base de datos.",
+            "Creación de dashboards, BI y presentaciones ejecutivas.",
+            "Elaboración y seguimiento de procesos sistemáticos.",
+            "Supervisión y validación de planificaciones semanales de proveedor.",
+            "Optimización de recursos."
+        ],
+        "comentarios": "base en vallejo o polanco, flexibilidad 2 dias m y j\nCarreras afines a análisis de datos",
+        "carreras": [
+            "Ing. Ciencia de Datos",
+            "Ing. Industrial",
+            "Lic. Administración de Empresas",
+            "Afín"
+        ],
+        "habilidades": [
+            "Power BI",
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Becarix Supply Chain",
+        "duracion": "6 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Automatización de archivos",
+            "Seguimiento de prioridades e ingresos de productos internacionales",
+            "Seguimiento de stocks PLV",
+            "Análisis de estatus de venta",
+            "Actualización de bases de PBi"
+        ],
+        "comentarios": "habilidades de comunicación proyecto de optimización de procesos \ntransversal\nmuchas ganas de aprender, proactividad \nplanner , bussiness planer ",
+        "carreras": [
+            "Ingeniera Industrial",
+            "Negocios Internacionales",
+            "Administracion",
+            "Administracion industrial",
+            "Inteligencia de negocios"
+        ],
+        "habilidades": [
+            "SAP",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Becarix de Ingeniería",
+        "duracion": "6 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Revisión y creación de planes de prueba.",
+            "Creación, ejecución y seguimiento a scripts de prueba automatizados.",
+            "Trabajo en prueba de producto o verificación de solución.",
+            "Desarrollo de código orientado a nuevo producto"
+        ],
+        "comentarios": " .",
+        "carreras": [
+            "Ing. mecatrónica",
+            "Ing. eléctrica",
+            "Ing. informática",
+            "Ing. tecnologías de la información",
+            "Ing. robótica",
+            "Lic. Ciencias de la computación",
+            "Afín"
+        ],
+        "habilidades": [
+            "Phyton",
+            "C++",
+            "Programación (Hardware)",
+            "Cloud AWS/Azure"
+        ]
+    },
+    {
+        "empresa": "Danone",
+        "vacante": "IT Intern",
+        "duracion": "18 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Participar en diferentes proyectos brindando apoyo a las OPP/PO y Líderes de Capítulo en la entrega de soluciones tecnológicas con los usuarios clave de la empresa.",
+            "Brindar soporte en las aplicaciones de las áreas de negocio como ventas, gestionando las solicitudes de los usuarios, entendiendo los problemas y necesidades para brindar la mejor solución.",
+            "Trabajar en un entorno ágil para entregar productos.",
+            "Colaborar con miembros experimentados del equipo del capítulo y propietarios de productos senior, diseñando y aportando productos innovadores en el desarrollo de software.",
+            "Colaborar para diseñar y construir tecnologías innovadoras.",
+            "Colaborar para crear soluciones y entregar productos.",
+            "Trabajar en un entorno ágil para entregar software de alta calidad."
+        ],
+        "comentarios": "Modalidad: híbrida (van 2 veces a la semana)",
+        "carreras": [
+            "Ing. Informática",
+            "Ing. Sistemas",
+            "Afines"
+        ],
+        "habilidades": [
+            "SAP",
+            "Java",
+            "PHP",
+            "Python",
+            "SQL",
+            "HTML/CSS",
+            "CC++"
+        ]
+    },
+    {
+        "empresa": "MSD México",
+        "vacante": "Becarix en Eventos",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Enviar DPSS solicitados",
+            "Ingresar eventos y patrocinios al sistema MAH-100",
+            "Elaborar cartas invitación para Médicos",
+            "Realizar toda la documentación requerida para el ingreso de un evento o patrocinio en sistema",
+            "Generar la documentación de cierre de un evento",
+            "Recabar la documentación de cierre de un patrocinio",
+            "Ingresar los gastos finales y documentación de cierre en MAH-100 por evento y por patrocinio",
+            "Ingresar a la base de datos el gasto por evento por Unidad de Negocios.",
+            "Actualización de controles",
+            "Diversas actividades administrativas"
+        ],
+        "comentarios": "2 días presenciales. \nAtención al detalle, perfil administrativo, *manejo de números* debido a la revisión de facturas, serían actividades administrativas. No salen a eventos, ni planean. Centrado en la parte administrativa. \nOjo con carreras del poli \nMínimo 5 perfiles ",
+        "carreras": [
+            "Administración",
+            "Turismo",
+            "Administración de la Hospitalidad",
+            "Ingeniería industrial",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "SiiLA",
+        "vacante": "Becarix Analista de Investigación",
+        "duracion": "6 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 6500,
+        "actividades": [
+            "Recopilación, vaciado y análisis de datos en Excel.",
+            "Investigación de campo y gabinete del sector inmobiliario.",
+            "Realizar llamadas telefónicas para la recopilación de información relacionada con el sector y la preparación de presentaciones."
+        ],
+        "comentarios": "Entrevista remota, ",
+        "carreras": [
+            "Administración",
+            "Ing. Industrial",
+            "Negocios Internacionales",
+            "Urbanismo",
+            "Arquitectura",
+            "afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "GNP",
+        "vacante": "Consultor Técnico GNP ",
+        "duracion": "3 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Presencial",
+        "sueldo": 10853,
+        "actividades": [
+            "Participar en las actividades de capacitación.",
+            "Reforzar los conocimientos básicos de las áreas técnicas.",
+            "Desarrollarán y adquirirán los conocimientos, habilidades y herramientas dentro de la industria de seguros.",
+            "Conocerán la operación de cada uno de los ramos de seguro."
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Actuaría",
+            "Matemáticas",
+            "Ing. Civil",
+            "Ing. Industrial",
+            "Data Science",
+            "Data Analytic",
+            "Económico - Financieras",
+            "O afín"
+        ],
+        "habilidades": [
+            "Programación",
+            "Matemáticas y estadística",
+            "Bases de datos"
+        ]
+    },
+    {
+        "empresa": "Reckitt",
+        "vacante": "Scholar CATMAN ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 9500,
+        "actividades": [
+            "Manejo de base datos.",
+            "Análisis de bases de datos.",
+            "Insights de categoría.",
+            "Análisis de marca. ",
+            "Realización de Scorecards."
+        ],
+        "comentarios": "Esquema híbrido: 1 o 2 veces presencial a la semana. 7000 de pago mas 2, 500 de apoyo.",
+        "carreras": [
+            "Marketing",
+            "Administración de empresas",
+            "Negocios Internacionales",
+            "Finanzas",
+            "Finanzas y Banca",
+            "Ingeniería en negocios",
+            "Ingeniería industrial",
+            "O afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "GEPP",
+        "vacante": "Becario Compras de Materiales Indirectos",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Alinear y coordinar con las áreas correspondientes el desarrollo de scorecard/ definición de métricas",
+            "Seguimiento E2E de contratos (solicitudes, drafts, estatus negociación, firmas, sellos)",
+            "Actualizar la nube con los contratos cerrados de compras",
+            "Actualización de datos de proveedores (contactos, correos, teléfonos, materiales, SKU’s)",
+            "-Actualización de directorio organizacional presentación ejecutiva de la empresa, etc.",
+            "Actualizar la carpeta de formatos de visita a proveedores"
+        ],
+        "comentarios": "Evaluación cada 6 meses, 8:30 a 2pm \nIniciativa, curiosidad intelectual, autodidacta, resolución de problemas. ",
+        "carreras": [
+            "Administración",
+            "Marketing",
+            "Negocios Internacionales",
+            "Comercio",
+            "Ing. Civil",
+            "Ing. Química",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Reckitt",
+        "vacante": "Scholar Business Intelligence ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 9500,
+        "actividades": [
+            "Analizar volúmenes de información.",
+            "Analizar volúmenes de ventas de productos como Chocomilk, CALCTOSE, Tempra, Sico, Vanish, etc. ",
+            "Generación de reportes ejecutivos en Power BI. ",
+            "Automatización de procesos. "
+        ],
+        "comentarios": "Horario flexible, sin inconveniente, horario entre 8:00 a 6:00 pm, sin inconveniente. Porque también les gustaría que haya convivencia entre el equipo.  Esquema híbrido: 1 o 2 veces presencial a la semana. \n7000 de pago mas 2, 500 de apoyo. \nLeguajes de programación deseables, en búsqueda de una persona con actitud, que quiera aprender acerca de las herramientas, etc.\nIngles intermedio- deseable. \nExcel: fórmulas y tablas dinámicas. \nGénero y Edad: Indistinto ",
+        "carreras": [
+            "Actuaría",
+            "Ingeniería en computación",
+            "Ingeniería en sistemas",
+            "Computación",
+            "O afín"
+        ],
+        "habilidades": [
+            "Python",
+            "R",
+            "SQL",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Pluxee",
+        "vacante": "Becario Administrativo ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Revisar detalladamente los documentos y contratos",
+            "Coordinar la entrega del expediente vía Salesfroce y/o Ticketing",
+            "Seguir los procedimientos internos para garantizar la activación de los Contratos ",
+            "Gestionar los rechazos o incidentes",
+            "Comunicar oportunamente el estatus de los contratos"
+        ],
+        "comentarios": "viernes HO\n",
+        "carreras": [
+            "Ingeniería en Negocios",
+            "Licenciatura en Administración",
+            "Licenciatura en Derecho",
+            "Licenciatura en Administración de Negocios",
+            "Licenciatura en Administración Financiera y Sistemas",
+            "Licenciatura en Administración Gubernamental y Políticas",
+            "A fin"
+        ],
+        "habilidades": [
+            "Microsoft Office"
+        ]
+    },
+    {
+        "empresa": "MSD México",
+        "vacante": "Becario Marketing – Unidad Avícola",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Cotizar materiales promocionales, equipo técnico y estudios de laboratorio a través de una buena relación con proveedores.",
+            "Realización de órdenes de compra, recepción de facturas y control de pagos.",
+            "Manejo y análisis del presupuesto, así como control de gastos.",
+            "Análisis de resultados de estudios diagnóstico.",
+            "Investigación del Mercado Farmacéutico Avícola.",
+            "Gestión de eventos y patrocinios.",
+            "Gestión de contratos.",
+            "Revisión de materiales de comunicación, así como subirlos a la plataforma de MSD para gestionar autorizaciones.",
+            "Recepción, control y envío de materiales promocionales.",
+            "Manejo de redes sociales.",
+            "Participación en la realización y ejecución del Marketing Plan."
+        ],
+        "comentarios": "Si requiere un inglés avanzado, mínimo intermedio-avanzado \nIngenierías de preferencia, puede ser ing. de química, enfoque de rentabilidad. \nEnfoque de excel y power point macros, programación, movimientos visuales. \nRedes sociales deseable de facebook y linkedIn \nVa a cotizar para eventos, apoyar en todo el proceso, saber mapear, organizar. \nBuscar que sea organizado y tenga capacidad de organización; que tenga noción de números, que serpa manejar presupuesto. Que sea orientado a resultados. 2filtros\n** ",
+        "carreras": [
+            "Ingenierías",
+            "Marketing",
+            "Licenciatura en Administración",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Manejo de redes sociales principalmente Facebook y LinkedIn.",
+            "CANVAS",
+            "SAP"
+        ]
+    },
+    {
+        "empresa": "MSD México",
+        "vacante": "Becario Marketing – Unidad Acuícola",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Cotizar materiales promocionales, equipo técnico y estudios de laboratorio a través de una buena relación con proveedores.",
+            "Realización de órdenes de compra, recepción de facturas y control de pagos.",
+            "Manejo y análisis del presupuesto, así como control de gastos.",
+            "Investigación del Mercado Farmacéutico Acuícola.",
+            "Apoyar con la gestión de eventos y patrocinios.",
+            "Apoyar con la  gestión de contratos.",
+            "Revisión de materiales de comunicación, así como subirlos a la plataforma de MSD para gestionar autorizaciones.",
+            "Recepción, control y envío de materiales promocionales.",
+            "Manejo de redes sociales.",
+            "Participación en la realización y ejecución del Marketing Plan."
+        ],
+        "comentarios": "Híbrida: 2 días presencial (martes y jueves) y 3 días virtual (lunes, miércoles y viernes), en algún momento podría cambiar a 3 días presencial y 2 días virtual.",
+        "carreras": [
+            "Ingenierías",
+            "Marketing",
+            "Administración",
+            "Veterinaria",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Redes sociales"
+        ]
+    },
+    {
+        "empresa": "Sandoz",
+        "vacante": "Becarix Compliance ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 7645,
+        "actividades": [
+            "Monitoreo de Material Promocional, Eventos, Financiamiento Externo",
+            "Soporte en herramientas del area",
+            "Soporte en entrenamientos tanto de herramientas como en politicas (Onboarding)",
+            "Reporte de Cetifarma",
+            "Comunicados del area"
+        ],
+        "comentarios": "tablas dinamicas, vlookup, tabulacion, bases de datos\nbuenos skills de presentaciones\ncetifarma: politicas normatividad \nControl de calidad  , logistica, \nviernes HO\n",
+        "carreras": [
+            "Ing. Industrial",
+            "Administracion de empresas",
+            "Finanzas",
+            "Economia",
+            "Contabilidad",
+            "Afin",
+            "Auditoria"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Compañía Farmacéutica (AZ)",
+        "vacante": "Facilities Intern ",
+        "duracion": "12 meses",
+        "lugar": "Tlalpan",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Apoyo en gestionar el funcionamiento del inmueble y sus servicios (Salud ocupacional, seguridad, comedor, etc),",
+            "Apoyo en coordinación de eventos y actividades del área",
+            "Elaboración de procedimientos internos (normas de seguridad y operación, protección civil, medio ambiente, etc) "
+        ],
+        "comentarios": "preferencia Unis públicas ",
+        "carreras": [
+            "Administración",
+            "Ing. Industrial"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Deployment Analyst Intern",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Elaboración de presupuesto, seguimiento a gastos mensuales y análisis de impactos.",
+            "Dar visibilidad constante del presupuesto a los equipos: creación de dashboards, preparación de plan de acción.",
+            "Creación de proveedores, seguimiento a ordenes de compra, evaluación de propuestas de proveedores.",
+            "Seguimiento a contratos: renovaciones, evaluación de costos.",
+            "Soporte para necesidades de materiales y compras de los equipos."
+        ],
+        "comentarios": "2 días en Oficina, 3 días HO\nAct: Presupuestos, proveedores, estados de cuenta, seguimiento del presupuesto a diferentes áreas.\nEnfoque principal a su Actitud, Proactividad, Autonomía y Comunicación",
+        "carreras": [
+            "Lic. Actuaría",
+            "Lic. Finanzas",
+            "Lic. Administración",
+            "Ing. Industrial"
+        ],
+        "habilidades": [
+            "SAP",
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Digital Intern ",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Contenido para clientes e- commerce, sitio web y CRM, visibilidad digital de marca",
+            "Análisis, procesos y ejecución de bundles e-comm",
+            "Análisis de resultados, seguimiento, innovación y UX de marca."
+        ],
+        "comentarios": "altas de lanzamientos , especificaciones en imágenes, identidad de marca , ejecución de campañas, owners de sitios. \nSocial Skills, ganas de aprender, proactividad \n ",
+        "carreras": [
+            "marketing",
+            "Ingeniería Industrial",
+            "Administracion",
+            "Comunicación",
+            "Mercadotecnia estrategica",
+            "Innovación y Desarrollo",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Becarix Asuntos Regulatorios ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            " Apoyo a los especialistas y lideres de asuntos regulatorios en trámites que deben de ser sometidos a Secretaría de Salud (COFEPRIS). ",
+            "Apoyo en procesos de cumplimiento regulatorio ",
+            "Solicitud de cheques para trámites regulatorios. ",
+            "Generar órdenes de compra para traducciones de registros y documentación legal. "
+        ],
+        "comentarios": "3 dias presenciales de martes a jueves \nbases de datos, tablas dinamicas\nproactividad, ganas de aprender. ",
+        "carreras": [
+            "QFB",
+            "QBP",
+            "Ing. Farmacéutico",
+            "Ing. Biotecnólogo",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Henkel",
+        "vacante": "Application Engineering Intern (AMI)",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Presencial",
+        "sueldo": 8500,
+        "actividades": [
+            "Elaboración de bitácoras en Excel ",
+            "Desarrollar y evaluar resultados de KPI para impulsar la innovación y la mejora continua a través de decisiones y acciones basadas en datos",
+            "Muestreos analíticos (química analítica básica)",
+            "Conocimiento en normas de gestión de Calidad ",
+            "Pruebas en planta piloto"
+        ],
+        "comentarios": "CECO: 3324056318 | BUCO: AMI | Henkel Vallejo: Poniente 134 No. 786 Col. Industrial Vallejo C.P. 02300, Ciudad de México",
+        "carreras": [
+            "Ingeniería Química",
+            "Química",
+            "Ingeniería Industrial",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Procedimientos de laboratorio",
+            "Normas ISO"
+        ]
+    },
+    {
+        "empresa": "Henkel",
+        "vacante": "Laboratory Application Engineering Intern",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Cooperar con Operaciones de Laboratorio en las pruebas.",
+            " Participar en capacitaciones técnicas.",
+            "Administrar un nuevo Software de Gestión de Muestras para realizar un seguimiento del inventario de muestras",
+            "Envío de muestras para pruebas de clientes.",
+            "Preparación de demostraciones para capacitaciones.",
+            "Inventario de equipos y herramientas.",
+            "Desarrollar un sistema para el préstamo eficiente de Equipos y Herramientas.",
+            "Análisis mensual de encuestas de satisfacción de clientes."
+        ],
+        "comentarios": "CECO: 3224016318 | BUCO: ACM | Henkel Vallejo: Poniente 134 No. 786 Col. Industrial Vallejo C.P. 02300, Ciudad de México",
+        "carreras": [
+            "Ingeniería Química",
+            "Química",
+            "Ingeniería Bioquímica",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Procedimientos de laboratorio",
+            "Metodología 5´s",
+            "Kanban"
+        ]
+    },
+    {
+        "empresa": "Henkel",
+        "vacante": "Packaging Engineering Intern",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Apoyo para ejecutar nuevos proyectos de desarrollo de embalaje para la innovación, costo de los bienes vendidos y proveedores alternativos",
+            "Garantizar el cumplimiento de los estándares, políticas y procedimientos corporativos de seguridad e higiene de Henkel.",
+            "Visitas a procesos en planta ",
+            "Contacto con otras áreas y proveedores."
+        ],
+        "comentarios": "CECO: 3435066318 | BUCO: AOM | Henkel Vallejo Poniente 134 No. 786 Col. Industrial Vallejo C.P. 02300, Ciudad de México.",
+        "carreras": [
+            "Ingeniería Química",
+            "Ingeniería Industrial",
+            "Ingeniería de procesos",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Power BI",
+            "Creación de Reportes"
+        ]
+    },
+    {
+        "empresa": "PPG",
+        "vacante": "Becarix Técnico ",
+        "duracion": "12 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 9000,
+        "actividades": [
+            "Sacar reportes estadísticos de cursos y servicios",
+            "Realizar presentaciones técnicas ",
+            "Dar WEB técnicas",
+            "Listas de materiales"
+        ],
+        "comentarios": "Asesores técnicos, interés por área de recubrimientos y trabajo en campo. (admin de obras y acabados)\n\nEnfocarnos en personas que puedan cubrir 12 meses.\n\nCalle de Nogal No. 227\nCol. Santa María la Ribera\nCiudad de México",
+        "carreras": [
+            "Arquitectura",
+            "Ingeniería Química",
+            "Ingeniería Industrial"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Becario de Programas Comerciales",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Creación y seguimiento de reportes de avance para los concursos comerciales.",
+            "Gestión, comunicación y consolidación de información entre áreas.",
+            "Análisis de resultados de los diferentes concursos comerciales.",
+            "Diseño de presentaciones ejecutivas."
+        ],
+        "comentarios": "Posibilidad a extensión",
+        "carreras": [
+            "Ing. Industrial",
+            "Administración Industrial",
+            "Afín"
+        ],
+        "habilidades": [
+            "análisis de bases de  datos"
+        ]
+    },
+    {
+        "empresa": "Pluxee",
+        "vacante": "Becario de análisis de datos ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Descarga de información de los sistemas Pluxee, para realizar diferentes tipos de análisis",
+            "Ordenar y garantizar que la información este completa",
+            "Analizar los datos para generar dashboard y reportes ejecutivos a la Dirección de Finanzas y Gerencia de Crédito y Cobranza."
+        ],
+        "comentarios": "HO - 1 DIA acuerdo",
+        "carreras": [
+            "Actuaría",
+            "Ing. Industrial",
+            "Ciencia de datos",
+            "Finanzas"
+        ],
+        "habilidades": [
+            "Power Point",
+            "Power BI",
+            "Minería de datos",
+            "Conocimientos Financieros y Contables"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": " Contact Center Intern",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Asegurar buenas prácticas de conversión y cumplimiento de los procesos e indicadores.",
+            "Seguimiento a la ejecución de políticas de productos y actualizaciones de procesos.",
+            " Generar informes BAU para la toma de decisiones sobre el equipo Remote Coaches; encontrar puntos débiles y problemas en los procesos.",
+            " Seguimiento al proceso de escucha de llamadas y calibraciones.",
+            "Apoyo al proceso continuo de capacitación y evaluación de los proveedores de centros de contacto."
+        ],
+        "comentarios": "6 hrs diarias",
+        "carreras": [
+            "Administración",
+            "Mercadotecnia",
+            "Comunicación",
+            "Ingenierías afines"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Germination",
+        "vacante": "Practicante en Bayer",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8830,
+        "actividades": [
+            "Realizar investigaciones en línea y fuera de línea para recopilar datos relevantes para el proyecto.",
+            "Asistir en la elaboración de informes sobre el progreso del proyecto, incluyendo análisis y recomendaciones.",
+            "Asistir en la elaboración de informes sobre el progreso del proyecto, incluyendo análisis y recomendaciones."
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Recursos Humanos",
+            "Marketing",
+            "Ventas",
+            "Administración",
+            "Finanzas",
+            "Contabilidad",
+            "Logística",
+            "Ingeniería",
+            "IT",
+            "O afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Samsung",
+        "vacante": "Supply Chain Intern",
+        "duracion": "18 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Seguimiento y validación del catalogo en los diferentes canales de eStore",
+            "Análisis de la información logística (Desde la creación de la orden hasta la entrega a cliente final) - Supply Chain",
+            "Seguimiento de las ventas para llegar a los objetivos de cada semana /mes",
+            "Soporte en el manejo de inventario y planeación para lograr un nivel mínimo de Stock Out ",
+            "Analisis de competitividad de precios en el mercado"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingeniería Industrial",
+            "Negocios Internacionales",
+            "A fin",
+            "Comercio Internacional"
+        ],
+        "habilidades": [
+            "analisisde datos",
+            "Power Point"
+        ]
+    },
+    {
+        "empresa": "Element Fleet",
+        "vacante": " Intern área comercial ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Acompañar y trabajar junto al equipo de ventas en su día a día contribuyendo en la generación de propuestas, recomendaciones y cuestionamientos.",
+            "Contacto y seguimiento constante con los clientes.",
+            "."
+        ],
+        "comentarios": "Revisión de cuentas contratos, seguimiento de pendientes. \nHabilidad de seguimiento, interés por el área comercial, y conocimiento de finanzas \n\nEnvió de CV ",
+        "carreras": [
+            "Finanzas",
+            "Administración",
+            "LAE",
+            "Negocios internacionales",
+            "Ingeniería Industrial",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Becarix Compras Indirectas",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Soporte en RFPs y Subastas en Ariba (Outplacement Services, Tax, e Immigration Services para US)",
+            "Desarrollo de KPIs",
+            "Carga de documentos en Ariba",
+            "Desarrollo de reportes mensuales",
+            "Carga y desarrollo de contratos ",
+            "Contribución a desarrollo de automatización de categorías "
+        ],
+        "comentarios": "Mínima experiencia en tienda, compañía o la universidad\nlicitaciones, servicios, costos promedios actuales, dar alta de proveedores, analisis de propuestas, analisis de gastos. \n3 dias presencial y 2 HO \nflexibilidad algunos dias de horario\nExcel: tablas dinamicas, formulas, segmentación, totales ",
+        "carreras": [
+            "Negocios Internacionales",
+            "Administracion de empresas",
+            "Ing. Industrial",
+            "Finanzas",
+            "Comercio Internacional",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Carnot Laboratorios",
+        "vacante": "Becario de Producción",
+        "duracion": "6 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 6000,
+        "actividades": [
+            "Actualización y seguimiento de documentos utilizados en las áreas de producción (PNOs, instructivos, listados)",
+            "Apoyo en capacitación de PNOs e instructivos.",
+            "Apoyo en revisión documental de instructivos, seguimiento al plan de entrega de liberación de productos.",
+            "Apoyo en el cumplimiento al programa de capacitación y calificación de personal de producción."
+        ],
+        "comentarios": "Lic de farma, les llame el área de productividad, equipo de usos de protección. \nseguimiento de capacitaciones, expedientes, diariamente avance \n\nEntrega con \nAreli Ramirez Peña\naramirezp@carnot.com",
+        "carreras": [
+            "Química Farmacéutica Biológica",
+            "Químico Farmacéutico Industrial",
+            "Ingeniero Farmacéutico",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Sanofi",
+        "vacante": "STAR Becarix Marketing (Consumo probióticos)",
+        "duracion": "18 meses",
+        "lugar": "Benito Juárez",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Apoyo en activación de materiales de comunicación",
+            "Seguimiento a campañas de influencers",
+            " Seguimiento del presupuesto de marca",
+            " Análisis semanal de performance y análisis mensual del mercado",
+            "Aprobación de materiales publicitarios y apoyo logísstico de eventos a consumidor"
+        ],
+        "comentarios": "-Atención al detalle, - Proactividad, -Análisis datos - Actitud de aprendizaje\n",
+        "carreras": [
+            "Mercadotecnia",
+            "Publicidad",
+            "Administración",
+            "Ingeniería Industrial",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "COVAF",
+        "vacante": "Becarix de Desarrollo (Pruebas)",
+        "duracion": "6 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Híbrido",
+        "sueldo": 7000,
+        "actividades": [
+            "Programar desarrollos solicitados por las áreas involucradas y realizar pruebas a desarrollos a fin de asegurar su calidad y funcionamiento correcto.",
+            "Documentar los desarrollos entregados con base a lo establecido en el área de desarrollo.",
+            "-"
+        ],
+        "comentarios": "Reforma 295\n\nHorario (Horas a cubrir): 5 hrs Horario indistinto. Mañana o tarde \n\nEspecificar busqueda en : SQL y/o MySQL. (pruebas)\n",
+        "carreras": [
+            "Ciencias de la computación",
+            "Ingeniería en Sistemas",
+            "Informática o a fin."
+        ],
+        "habilidades": [
+            "SQL y/o MySQL. (pruebas)",
+            "Lenguaje Java",
+            "Java Swing",
+            "Metodologías de desarrollo ágiles (Scrum) Gitlab o GitHub."
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Marketing Intern ",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Comunicación con diferentes paises para liderar proyecto de acuerdo a los distintos assets",
+            "Actualización de paginas de E-commerce",
+            "Renovación de cleansers de la marca"
+        ],
+        "comentarios": "Atencion al detalle, comunicación para homologación de imágenes, banners, no hay diseño ni parte creativa, diagnostico de paginas, reportes, analisis de mercado\nL´Oréal Paris, Maybelline, Garnier NYX\nPerfiles analíticos, super cumplidos, responsables",
+        "carreras": [
+            "Marketing",
+            "Admin de empresas",
+            "Negocios Internacionales",
+            "Ing. Industrial"
+        ],
+        "habilidades": [
+            "Conocimientos marketing"
+        ]
+    },
+    {
+        "empresa": "Element Fleet",
+        "vacante": "Becarix de Product Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Elaboración de materiales comerciales de producto con la agencia de diseño.",
+            "Elaboración de campañas internas y externas de productos para promoción de éstos.",
+            "Planeación y ejecución de capacitaciones internas y externas para difusión de productos.",
+            "Seguimiento a la utilización e impulso de herramientas digitales.",
+            "Elaboración de análisis de datos y de tendencias de productos internos y de la competencia."
+        ],
+        "comentarios": "Relación con agencias y relaciones comerciales.  Capacidad de visualización a futuro. \nContacto con agencias. \nDinámico y proactivo.  \n\nOpción a híbrido \nOpción de hacer carrera. ",
+        "carreras": [
+            "Mercadotecnia",
+            "Ingeniería Industrial",
+            "administración",
+            "NI",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Empresa Aliada",
+        "vacante": "Sales Trainee",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 18000,
+        "actividades": [
+            "Análisis de ventas",
+            "Actualización de reportes",
+            "Seguimiento a proyectos"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Administración",
+            "Actuaría",
+            "Ing. Industrial",
+            "Economía",
+            "Finanzas",
+            "Afín"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Kontoor Brands",
+        "vacante": "Demand Planning Intern ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Generación de reporte semanales (inventario de telas, producto terminado, WIP, tránsito de tela y facturación).",
+            "Mantener actualizado el catálogo de estilos por marca y canal.",
+            "Realizar la carga de información de operaciones en alta de estilos.",
+            "Realizar la carga de Ordenes de Salida complementarias de avíos.",
+            "Realizar la carga del forecast a Logility a nivel de estilo y talla."
+        ],
+        "comentarios": "Hibrido Lunes, Mates y Miércoles y Jueves y Viernes HO en casa \n1 vez al mes ir a Iztapalapa",
+        "carreras": [
+            "Ingeniería Industrial",
+            "Administración",
+            "Carreras a fin"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Carnot Laboratorios",
+        "vacante": "Becario de Mantenimiento",
+        "duracion": "12 meses",
+        "lugar": "Benito Juárez",
+        "modalidad": "Presencial",
+        "sueldo": 6000,
+        "actividades": [
+            "Cierre de avisos de avería y ordenes de servicio ",
+            "Control y verificación de programas de mantto ",
+            "Entrega y busqueda de docu p/capa"
+        ],
+        "comentarios": "Persona con interés en desarrollarse en la industria. Ganas de aprender. ",
+        "carreras": [
+            "Ingeniería elecronica",
+            "Ingeniería en automatización",
+            "Ingeniería electrica"
+        ],
+        "habilidades": [
+            "Ingeniería y sistemas eléctricos y mecánicos",
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "B2B Finance Intern",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            " Diagrama de Gantt, status report, minutas, design inicial acompañado por el Project Manager ",
+            " Seguimiento y cierre 100% para las fases de desarrollo del proyecto",
+            "Creación y documentación del change."
+        ],
+        "comentarios": "Excel; flujos de macros, tablas dinamicas, reportes de status\nbuscan un perfil que pueda gestionar proyectos u optimizarlo, que sea proactivo y autodidacta, no es necesario programación\nSAP deseable\ncarrera mas afin administracion",
+        "carreras": [
+            "IT",
+            "Administracion",
+            "Sistemas Computacionales",
+            "Finanzas",
+            "Ing. Industrial",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Boehringer Ingelheim",
+        "vacante": "Becarix Marketing CRM",
+        "duracion": "12 meses",
+        "lugar": "Xochimilco",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Conocer y mapear las diferentes plataformas y sitios que tiene la compañía para comunicar e interactuar con la Fuerza Ventas.",
+            "Conocer los objetivos e información de cada plataforma y sitios de comunicación/interacción.",
+            "Proponer y acordar junto con las diversas áreas de la compañía las plataformas o canales de comunicación que se priorizarán o cómo van a interactuar y complementarse entre ellas, tratando de facilitar los sitios que tiene que acceder la Fuerza de Ventas.",
+            "Definir un plan para la implementación del proyecto, definiendo: nombre del proyecto, actividades, onwers, fechas y pruebas pilotos.",
+            "Ejecución del proyecto, asegurando juntas para: toma de decisiones, seguimiento, entrega demilestones, levantar focos amarillos y rojos que pudieran comprometer el alcance, definir y dar seguimiento a los KPIs y éxito del proyecto.",
+            "Dar seguimiento a la implementación del proyecto, siguiendo los principios definidos, asegurando la publicación del material o contenido por las diversas áreas, así como recibir retroalimentación de la Fuerza de Ventas y stakeholders principales, para realizar ajustes y mejoras al proyecto.",
+            "Hacer una evaluación de la nueva forma y contenido de comunicación: correr una encuesta de satisfacción, hacer una lista de DO & DON´Ts y hacer una lista de posibles mejoras para la continuidad de la plataforma."
+        ],
+        "comentarios": "Modalidad híbrida, yendo lunes y martes a la oficina.\nExcel: Listado de control de seguimiento.",
+        "carreras": [
+            "Administración",
+            "Mercadotecnia",
+            "Comunicación",
+            "Ingeniería Industrial"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Empresa Aliada",
+        "vacante": "Consultor Técnico",
+        "duracion": "3 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Presencial",
+        "sueldo": 10853,
+        "actividades": [
+            "Participar en las actividades de capacitación.",
+            "Reforzar los conocimientos básicos de las áreas técnicas.",
+            "Desarrollarán y adquirirán los conocimientos, habilidades y herramientas dentro de la industria de seguros",
+            "Conocerán la operación de cada uno de los ramos de seguro."
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Actuaría",
+            "Matemáticas",
+            "Matemáticas Aplicadas",
+            "Data Science",
+            "Economía",
+            "Ingeniería Industrial",
+            "Ingeniería Civil",
+            "Data Analytic",
+            "Económico - Financieras"
+        ],
+        "habilidades": [
+            "Programación",
+            "Matemáticas y estadística",
+            "Base de datos"
+        ]
+    },
+    {
+        "empresa": "Schneider",
+        "vacante": "Customer Service Intern",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 6000,
+        "actividades": [
+            "Planeación de órdenes en sistema.",
+            "Soporte al equipo en actividades diarias",
+            "Generación de reportes y análisis de información",
+            "Manejo de incidencias."
+        ],
+        "comentarios": "Hibrido: 3 y 2 \n\n7 a 1 flexibilidad, cumplir 6 meses, ingles avanzado si o si. el tema de proactividad.  movidos, proactivos.  no importa la experiencia, pero si las ganas de aprender e implentar cosas nuevas. ",
+        "carreras": [
+            "Negocios Internaacionales",
+            "Relaciones Internacionales",
+            "Comercio",
+            "Ing. en Transporte"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Mendel",
+        "vacante": "IT Intern",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 6000,
+        "actividades": [
+            "Hacer ingeniería inversa de portales web para crear APIS utilizando herramientas internas.",
+            "Sugerir y ejecutar mejoras en herramientas internas para el equipo de desarrollo",
+            "Apoyo general al área "
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Ing. Ciencias Computacionales",
+            "Ing. Sistemas",
+            "Ing. Cibernética",
+            "Ing. Mecatrónica",
+            "Afín"
+        ],
+        "habilidades": [
+            "JavaScript"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "L´Oréal Internship ",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Asistir a reuniones y sesiones de trabajo para observar y participar en discusiones sobre proyectos y tareas asignadas.",
+            " Aprende sobre la industria y la organización mediante la participación directa en las operaciones diarias",
+            "Desarrollar y ejecutar proyectos de mejora o innovación dentro de la organización"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Marketing",
+            "Publicidad",
+            "Comunicación",
+            "Finanzas",
+            "Negocios Internacionales",
+            "Comercio Internacional",
+            "Administracion",
+            "Estrategia de Negocios",
+            "Gestión Empresarial",
+            "Psicología",
+            "Ing. Industrial",
+            "Contabilidad",
+            "Recursos Humanos"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Henkel",
+        "vacante": "Application Engineering Intern ",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Apoyo a la evaluación de productos. ",
+            "Desarrollo de material de capacitación digital y audiovisual",
+            "Asesoría a clientes sobre soluciones dependiendo de sus necesidades. ",
+            "Elaboración y presentación de reportes de resultados. "
+        ],
+        "comentarios": "Horarios Flexibles",
+        "carreras": [
+            "Química",
+            "Ingeniería Química",
+            "Ingeniería Bioquímica",
+            "Ingeniería Industrial",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Henkel",
+        "vacante": "Laboratory Operations Intern",
+        "duracion": "12 meses",
+        "lugar": "Azcapotzalco",
+        "modalidad": "Presencial",
+        "sueldo": 8500,
+        "actividades": [
+            "Pruebas destructivas con materiales estandarizados tanto de clientes como de personal interno ",
+            "Procedimientos de laboratorio ",
+            "Manejo de herramientas básicas (martillo, taladro, desarmador, etc)",
+            "Coordinación con el área técnica"
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Ingeniería Química",
+            "Ingeniería Bioquímica",
+            "Ingeniería Industrial",
+            "Afines"
+        ],
+        "habilidades": [
+            "Instrumentos de laboratorio",
+            "Paquetería Office",
+            "Manejo de Herramientas básicas",
+            "Metodología 5´s"
+        ]
+    },
+    {
+        "empresa": "Samsung",
+        "vacante": " Business Logistics Intern",
+        "duracion": "18 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Generar matrices de mando por Unidad de Negocio",
+            "Generar tablero de indicadores operativos de: D2C-Fullfillment Center, D2C-Last Mile, WHS ,TR Inbound, TR Outbound, Services Parts",
+            "Creación de dashboards",
+            "Mapear el proceso logístico de Samsung para identificar los KPI críticos y de desempeño importantes y áreas de mejora como proceso que se medirá y mejorará con planes de acción de cada área",
+            "Indicadores que se hayan generado y el seguimiento del tableau"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingeniería Industrial",
+            "Ingeniería de Inteligencia de Negocios",
+            "A fin"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Power BI",
+            "Tableau"
+        ]
+    },
+    {
+        "empresa": "Samsung",
+        "vacante": " Business Marketing Intern",
+        "duracion": "18 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Crear y modificar presentaciones estratégicas de negocio para  el  top management",
+            "Análisis  de datos  de  mercado y creación de  distintos escenarios.",
+            "Apoyo al area y equipo de trabajo. "
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingeniería",
+            "Marketing",
+            "Inteligencia de negocio",
+            "A fin"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "analsis"
+        ]
+    },
+    {
+        "empresa": "Empresas Dragón",
+        "vacante": "Becarix de Compras ",
+        "duracion": "6 meses",
+        "lugar": "La Magdalena Contreras",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Apoyo en la generación de órdenes de compra frecuentes en el ERP.",
+            "Apoyo en el seguimiento a entregas y cierre de proceso de compra. (Compras mantenimiento, más industriales, compresores, racks, material ferretero, eléctrico, etc).",
+            "Apoyo en el alta de proveedores en portal."
+        ],
+        "comentarios": "●\t¿Manejas excel? ¿Manejo de algún ERP? *sólo deseable\n●\t¿Has hecho compras para algún área de mantenimiento?\nUbicación: Periférico Sur 3325-Piso 3, San Jerónimo Lídice, La Magdalena Contreras, 10200 Ciudad de México, CDMX.",
+        "carreras": [
+            "Ingeniería Mecánico",
+            "Ingeniería Química"
+        ],
+        "habilidades": [
+            "Procesos de Compras",
+            "ERP"
+        ]
+    },
+    {
+        "empresa": "SCOR",
+        "vacante": "Business Development Intern",
+        "duracion": "12 meses",
+        "lugar": "Benito Juárez",
+        "modalidad": "Presencial",
+        "sueldo": 9000,
+        "actividades": [
+            "Análisis de la información de las oportunidades del negocio",
+            "Elaboración de borradores de contrato para negocio nuevo y de renovación",
+            "Generación de información (reportes estadísticos y controles de negocios)",
+            "Búsqueda de fuentes información y minería de datos para la generación de bases de pricing",
+            "Análisis de Estados Financieros de Aseguradoras y elaboración de modelos en Excel de proyecciones"
+        ],
+        "comentarios": "Portugués, SAS y Access deseable.",
+        "carreras": [
+            "Lic. Actuaría",
+            "Lic. Matemáticas aplicadas",
+            "Ing. Industrial"
+        ],
+        "habilidades": [
+            "Microsoft Office",
+            "One Drive, Google Drive, Microsoft Teams",
+            "Portugués"
+        ]
+    },
+    {
+        "empresa": "Premium Restaurant Brands",
+        "vacante": "Becarix de Infraestructura-TI",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Apoyo en configuración de computadoras de usuarios",
+            "Soporte técnico a usuario final",
+            "Entrega de equipo a usuarios final"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingeniería en computación",
+            "Ingeniería en telematica",
+            "Afín"
+        ],
+        "habilidades": [
+            "Windows 10 / Mac OS X",
+            "IPv4",
+            "Redes LAN o Wifi",
+            "Configuración de computadoras con sistemas operativos."
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Supply Chain Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Proyecto de reporte de BI de Stock en plantas ",
+            "KPI cumplimientos de fechas establecidas para lanzamientos  de producto para planta Cosbel y San Luis Potosi.",
+            "Seguimiento de reporte mensual de la demanda",
+            "Visión 360° de la cadena de suministro con plan de producción  "
+        ],
+        "comentarios": "Excel: Inventarios, reportes, bases de datos, seguimiento ",
+        "carreras": [
+            "Ingeniera Industrial",
+            "Ing. Quimica",
+            "Negocios Internacionales",
+            "Logistica",
+            "Afines"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Empresas Dragón",
+        "vacante": "Becarix de Procesos ",
+        "duracion": "12 meses",
+        "lugar": "La Magdalena Contreras",
+        "modalidad": "Presencial",
+        "sueldo": 7000,
+        "actividades": [
+            "Documentar procesos: Será responsable de analizar y documentar los diferentes procesos de la organización, desde el inicio hasta la finalización. Esto implica entrevistar a los empleados, observar las tareas y recopilar información relevante para crear y acompañar en la generación de políticas, procedimientos y diagramas de flujo.",
+            "Proyectos: Participará activamente en al menos un proyecto que tenga a cargo la Dirección de TI, gestionando y actualizando los procesos que den soporte la operación actual y futura (As is - To be) del proyecto.",
+            "Creación de videotutoriales: Desarrollará videos tutoriales claros y concisos para ayudar a los usuarios a comprender y utilizar el sistema ERP de la organización. Estos videos deberán cubrir diferentes funcionalidades, desde las tareas más básicas hasta las más avanzadas, con el objetivo de facilitar la adopción del sistema y mejorar la capacitación de los empleados.",
+            "Colaboración interdepartamental: Trabajará en estrecha colaboración con los miembros del equipo de procesos, así como con otros departamentos. Este enfoque fomenta la comunicación fluida y la cooperación entre diferentes áreas funcionales de una organización, con el objetivo de capturar de manera precisa los procedimientos y flujos de trabajo existentes, promoviendo su optimización y eficiencia. "
+        ],
+        "comentarios": "Ubicación: Periférico Sur 3325-Piso 3, San Jerónimo Lídice, La Magdalena Contreras, 10200 Ciudad de México, CDMX. ",
+        "carreras": [
+            "Ingeniería Industrial"
+        ],
+        "habilidades": [
+            "Procesos y mejora continua",
+            "Diagramación de procesos",
+            "Edición de videos",
+            "ERP"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Becario de Planificación de Mercado",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Evaluar la oferta y la demanda, e identificar los riesgos.",
+            "Analizar y dar soporte a los requerimientos del mercado en relación con la base de datos.",
+            "Participar en reuniones operativas de mercado.",
+            "Ayudar con el apoyo administrativo adicional que se solicite."
+        ],
+        "comentarios": "Cualquier ingeniería puede aplicar.",
+        "carreras": [
+            "Ing. Industrial",
+            "Afín"
+        ],
+        "habilidades": [
+            "Estrategia de Mercados",
+            "Gestión de proyectos"
+        ]
+    },
+    {
+        "empresa": "Algotive",
+        "vacante": "Strategic Planning Intern",
+        "duracion": "3 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Manejar correspondencia y actuar como primer punto de contacto con dirección.",
+            "Organizar y preparar reuniones.",
+            "Preparar y editar presentaciones y documentos. ",
+            "Actuar como asistente estratégico de dirección.",
+            "Facilitar la comunicación entre dirección y otros ejecutivos personal y socios externos. ",
+            "Gestión de proyectos específicos.",
+            "Apoyar en la implementación de iniciativas estratégicas.",
+            "Soporte administrativo general."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Administración de empresas",
+            "Ing. Industrial",
+            "Negocios o Gestión Estratégica"
+        ],
+        "habilidades": [
+            "Excel",
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "MNJ Operadora",
+        "vacante": "Becarix de Estructuración",
+        "duracion": "6 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Presencial",
+        "sueldo": 10000,
+        "actividades": [
+            "Realizar análisis financiero.",
+            "Realizar investigaciones de situaciones de industria, regiones y países.",
+            "Preparar información para presentaciones a área directiva."
+        ],
+        "comentarios": "Opción a extender.\n\nExcel: tablas dinámicas, bases de datos. \n\nCorreo: beneficios de PM. \n\nRevisión de presupuestos, micro y macro económica en la industria.\n\nNo hay restricción en cuanto al horario. \n",
+        "carreras": [
+            "Economía",
+            "Finanzas",
+            "Administración",
+            "Ing. Industrial",
+            "Actuaria",
+            "Afines"
+        ],
+        "habilidades": [
+            "Excel",
+            "Paquetería Office",
+            "Uso de MAC"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Retail Deployment Intern",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Seguimiento de informes de KPIs.",
+            "Creación de cuentas de canal y seguimiento con el equipo de Operaciones.",
+            "Soporte administrativo para asegurar el correcto funcionamiento indirecto.",
+            "Seguimiento a los gerentes de tienda para informar la necesidad."
+        ],
+        "comentarios": "Facilidad para asistir a Oficina (2 días a la semana).\nDisponibilidad de horario para atender emergencias.\nPosición de equipos muy dinámicos, trabajando con Retails..\nBalance gender e Inglés.\nDirección: C. Lago Zurich 245-Piso 3, 11529 Ciudad de México, Philip Morris International (Polanco)",
+        "carreras": [
+            "Lic. Administración",
+            "Lic. Negocios",
+            "Ing. Industrial",
+            "Afín"
+        ],
+        "habilidades": [
+            "Microsoft Office"
+        ]
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "health safety security and environment Intern",
+        "duracion": "24 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Evalúa los riesgos HSSE y desarrolla recomendaciones y/o planes para minimizar el riesgo.",
+            "Participar en la investigación de incidentes. y acciones correctivas/preventivas según sea necesario.",
+            "Tareas administrativas: Preparación de presentación de la Gerencia informes, análisis de datos, etc."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ing. Industrial",
+            "Ing. Ambiental"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "Mechanical Engineer Intern",
+        "duracion": "12 meses",
+        "lugar": "Iztacalco",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Apoyo para ejecutar/coordinar correctivo y preventivo mantenimiento que requiere terceros embarque de vendedores de fiestas (requerimientos técnicos, documentación, logística).",
+            "Apoyo del equipo de monitoreo, calidad y rendimiento.",
+            "Soporte para brindar apoyo a offshore en caso de avería y resolución de problemas que requieran apoyo desde tierra firme."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ing. Mecánica",
+            "Ing. Mecatrónica",
+            "Ing. Eléctrica",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "Instrument Engineer Intern",
+        "duracion": "24 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Apoyo al equipo de monitoreo, calidad y rendimiento",
+            "Participar en el análisis de causa raíz e  investigaciones relacionadas con incidentes de instrumentación.",
+            "Colaborar con el equipo en optimización del rendimiento y confiabilidad del equipo."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ing. Mecatrónica",
+            "Ing. Mecanica",
+            "Ing Electrica"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "Integrity Engineer Intern",
+        "duracion": "24 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Ayudar al ingeniero de integridad en estado del equipo de monitoreo, calidad y rendimiento.",
+            "Contribuir a la evaluación y implementación de mantenimiento programas.",
+            "Apoyar el desarrollo y gestión preventiva y Estrategias de mantenimiento predictivo."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ing. Mecánica",
+            "Ing. de Materiales",
+            "Ing. Manufactura",
+            "Ing. Industrial"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "Supply Chain Intern ",
+        "duracion": "12 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Apoyo a actividades de mapeo y alta de proveedores",
+            "Generación de reporte de seguimiento con proveedores para entrega de materiales. ",
+            "Generación de reportes para control de contratos con proveedores (fechas de vencimientos, contratos en procesos de firma, contratos en negociación, etc)"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingenierías",
+            "Administración",
+            "Economía",
+            "Actuaría",
+            "Afín"
+        ],
+        "habilidades": [
+            "SAP"
+        ]
+    },
+    {
+        "empresa": "MODEC",
+        "vacante": "COST CONTROL INTERN",
+        "duracion": "24 meses",
+        "lugar": "Cuauhtémoc",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Soporte mensual de acumulaciones de costos/ingresos",
+            "Seguimiento mensual del avance de actividades con propietarios del presupuesto",
+            "Participación semanal/mensual. reuniones de cierre con gestión."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingenierías",
+            "Administración",
+            "Economía",
+            "Actuaría",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": " AI & Automation Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Manejo y seguimiento de proyectos de mejora digitales del área de QA",
+            "Dirigir, coordinar y liderar el desarrollo de soluciones digitales",
+            "Presentación de avance de proyectos",
+            "Elaboración de PPT y contenido para el área"
+        ],
+        "comentarios": "Estará en el area de calidad optimizando procesos, carrera afin a los mismos.\n2 dias presenciales flexible",
+        "carreras": [
+            "Ing. en sistemas",
+            "Sistemas informáticos",
+            "Inteligencia artificial",
+            "Ing. en computacion",
+            "TI",
+            "Ing. Industrial",
+            "Ing. Quimica",
+            "Ing. en procesos",
+            "Afin"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Clinical Projects Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Manejo y seguimiento de las principales iniciativas, proyectos clínicos y de investigación del área de Médical Excellence",
+            "Implementar, coordinar y apoyar en la ejecución de proyectos clínicos y de investigación  ",
+            "Presentación de avance de proyectos",
+            "Seguimiento y administración de procesos regulatorios en materia de investigación clínica    "
+        ],
+        "comentarios": "2 dias presenciales 3 HO \nNo harán labor de investigación pero aprenderán del area ",
+        "carreras": [
+            "Ing Quimica",
+            "QFB",
+            "Ing Biomedica",
+            "QFI",
+            "QBP",
+            "afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "HR Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Planear, coordinar y dar seguimiento a eventos de Servicio Médico y Well-Being.",
+            "Realizar y gestionar órdenes de compra.",
+            "Dar seguimiento de métricas, apoyar en comunicación de Servicio Médico y clientes internos/ externos.",
+            "Apoyar en creación y adaptación de campañas de Well-being.",
+            "Contratación y pagos de proveedores."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Psicología",
+            "QFB",
+            "Lic. en Biociencias",
+            "Ing. de Desarrollo e Innovación",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Commercial Operations Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Dar soporte administrativo al área de cuentas de acceso privado",
+            "Manejar respaldos relacionados con contratos y condiciones comerciales de negocio con cuentas privadas y estrategias comerciales.",
+            "Análisis de tendencias y consumos de las cuentas.",
+            "Elaborar carpetas y dashboards para seguimiento a auditorias, consumos y provisiones financieras",
+            "Dar seguimiento a eventos relacionados con cuentas privadas",
+            "Dar soporte con carpetas para cuentas atendidas por fuerza de ventas"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "Mercadotecnía",
+            "o afín"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Sales Operations Apprentice",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Generar reportes con indicadores acerca de la ejecución de la fuerza de ventas de la compañía.",
+            "Análisis de datos para generar insights de valor acerca de la ejecución de la fuerza de ventas.",
+            "Proponer a la fuerza de ventas los clientes más potenciales conforme la información de auditorías.",
+            "Apoyar en la capacitación de la fuerza de ventas",
+            "Apoyo en la administración de las bases de datos del área, así como de la actualización de la estructura de la fuerza de ventas de la compañía.",
+            "Contacto directo con fuerzas de ventas para proveer soporte acerca de los reportes generados e información general del área. "
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Finanzas",
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "data analytics",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Becarix de Mercadotecnia",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Analizar los datos para generar una optimización en el presupuesto y costo beneficio de los eventos.",
+            "Gestión y documentación para eventos de marketing",
+            "Contacto directo con el equipo de ventas, clientes internos/externos y los médicos más importantes a nivel nacional (nuestros speakers)",
+            "Creación y seguimiento de materiales, OCs",
+            "Liderazgo de proyectos estratégicos"
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "Mercadotecnía",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Sales Operations Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Generar reportes con indicadores acerca de la ejecución de la fuerza de ventas de la compañía.",
+            "Análisis de datos para generar insights de valor acerca de la ejecución de la fuerza de ventas.",
+            "Proponer a la fuerza de ventas los clientes más potenciales conforme la información de auditorías.",
+            "Apoyar en la capacitación de la fuerza de ventas",
+            "Responsable de la administración de las bases de datos del área, así como de la actualización de la estructura de la fuerza de ventas de la compañía.",
+            "Contacto directo con fuerzas de ventas para proveer soporte acerca de los reportes generados e información general del área.  "
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Finanzas",
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "Análisis de datos",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Becario de Contraloría e Impuestos",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Participación en análisis financiero, contables y fiscales.",
+            "Interacción con el Procurement, RH, Planeanción, Tesorería.",
+            "Controles SOX de Contabilidad",
+            "Análisis de Desarrollo de negocio y riesgos para definir estrategias financieras y fiscales."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Finanzas",
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Becarix Medical",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Apoyo para facilitar el governance del área médica para proporcionar mejores resultados para un mayor número de pacientes, siguiendo las leyes, normativas, políticas internas de Lilly.",
+            "Contribuirás a la construcción, integración, seguimiento y correcto resguardo de la información médica de nuestras principales áreas terapéuticas.",
+            "Contribuir con nuevas ideas y proyectos que podrás implementar para optimizar las actividades cotidianas del equipo médico e inclusive cross-funcional.",
+            "Colaborar con un equipo de alto nivel, apoyando a gestionar la relación con líderes de opinión de las diferentes áreas para cumplir con los requisitos necesarios para ejecutar programas de educación médica tanto a nivel promocional como educacional",
+            "Comprenderás las necesidades clave del ecosistema de salud para ayudar a nuestros colegas a crear nuevas herramientas digitales para interactuar con las partes interesadas clave "
+        ],
+        "comentarios": "Eres una persona que te gusta analizar y manejar información. Además de tener relación con personas internas y externas.\nEres una persona sumamente organizada, tienes comunicación de alto impacto y te gusta aprender cosas nuevas.",
+        "carreras": [
+            "Biomedicina",
+            "Biotecnología",
+            "Ciencias Genómicas",
+            "Ciencia de los Datos",
+            "Ingeniería Biomédica",
+            "Biología",
+            "QFB",
+            "QFI",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Becarix de Marketing",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Aprobaciones de materiales promocionales y cocreación.",
+            "Interacciones de la fuerza de ventas",
+            "Contacto y relación con proveedores de atención médica",
+            "Campaña de participación de la fuerza de ventas interna",
+            "Seguimiento estricto en eventos de marketing promocional."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Mercadotecnia",
+            "Administración",
+            "Negocios Internacionales",
+            "Ingenierías",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Marketing Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Analizar los datos para generar una optimización en el presupuesto y costo beneficio de los eventos.",
+            "Gestión y documentación para eventos de marketing",
+            "Contacto directo con el equipo de ventas, clientes internos/externos y los médicos más importantes a nivel nacional ",
+            "Creación y seguimiento de materiales, OCs",
+            "Liderazgo de proyectos estratégicos"
+        ],
+        "comentarios": "Eres una persona sumamente organizada, te gusta aprender continuamente, sobre herramientas que permitan una rápida gestión de materiales (ej. Edición de videos, edición de pdfs).\nTienes habilidades de análisis y transformación de información en toma de decisiones\nTienes ideas creativas para mejorar procesos actuales!",
+        "carreras": [
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "Mercadotecnía",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Medical Information Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Responder a las consultas (escritas) de manera oportuna, precisa y significativa de acuerdo con los estándares científicos, las políticas internas, las leyes y regulaciones locales, asegurando la exactitud e integridad de la información médica",
+            "Responder a las solicitudes médicas generales relacionadas con todos los productos y cualquier dato científico asociado a una enfermedad.",
+            "Adquirir y mantener la comprensión de más de un área terapéutica y productos relevantes para proporcionar apoyo.",
+            "Documentar las solicitudes médicas en la base de datos de información médica de acuerdo con las pautas globales y locales.",
+            "Desarrollar cartas médicas (relacionadas con el producto, área terapéutica) utilizando enfoques de Medicina Basada en la Evidencia y enfocadas a necesidades específicas de información médica."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ingeniería Bioquímica",
+            "Medicina",
+            "Química",
+            "QFB",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Becarix de IT",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Colaborar con equipos multidisciplinarios en actividades de implementación de soluciones digitales y tecnológicas.",
+            "Apoyar la integración, estandarización y análisis de datos Comerciales y de Marketing.",
+            "Administración y seguimiento de proyectos tecnológicos."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Actuaria",
+            "Economía",
+            "Ingenierías",
+            "Mercadotecnía",
+            "o afín"
+        ],
+        "habilidades": [
+            "Power Apps",
+            "Lenguajes de programación (SQL, Phyton, R)",
+            "Conocimiento de bases de datos"
+        ]
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Business & Treasury Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Trabajar con el equipo de Planeación Financiera y tesorería México/LATAM para la correcta gestión de la información generada en el equipo hacia sus distintos clientes internos",
+            "Monitoreo de los gastos de las marcas de los productos Lilly para validar si están alineados al plan/Budget de la afiliada mexicana.",
+            "Contacto con diferentes áreas de la compañía (principalmente Finanzas y Marketing) para ayudar a identificar las variaciones contra las proyecciones de plan.",
+            "Preparar y compartir los reportes mensuales de cierre de Ventas y OPEX de la afiliada mexicana y la LATAM (región).",
+            "Dar soporte al equipo de precios para poder reflejar en el ERP de Lilly (SAP) los distintos ajustes que se realizan en el año y asegurar el cumplimento SOX de esta misma actividad."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Finanzas",
+            "Ingenierías",
+            "Actuaria",
+            "Economía",
+            "Ing. en Negocios",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "IT Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Colaborar con equipos multidisciplinarios en actividades de implementación de soluciones digitales y tecnológicas.",
+            "Apoyar la integración, estandarización y análisis de datos Comerciales y de Marketing.",
+            "Administración y seguimiento de proyectos tecnológicos."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Infromática",
+            "Ing. TICs",
+            "Ing. Sistemas Computacionales",
+            "Programación",
+            "Ingeniereías",
+            "o afín"
+        ],
+        "habilidades": [
+            "Power Apps",
+            "Lenguajes de programación",
+            "Conocimiento de bases de datos"
+        ]
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Patient Safety Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Comprender los elementos básicos de flujo de trabajo y gestión de documentos que se manejan en el área de farmacovigilancia.",
+            "Aplicación de la legislación sanitaria en materia de Farmacovigilancia para recopilar datos de seguridad de los medicamentos que se encuentran en el mercado.",
+            "Realizar actividades relacionadas con la detección, evaluación, comprensión y prevención de eventos adversos o sospecha de reacción adversa relacionada con los medicamentos.",
+            "Recibir, recopilar y dar seguimiento a la información relacionada con las notificaciones de los eventos adversos que se reciben en el área.",
+            "Ser responsable del procesamiento y archivo adecuado de todos los reportes relacionados con los eventos adversos (iniciales y seguimientos).",
+            "Someter los reportes de eventos adversos a la autoridad sanitaria de México de acuerdo con los requisitos locales y procedimiento internos.",
+            "Acercamiento y trabajo en equipo con distintas áreas de la compañía como marketing, calidad, legal, estudios clínicos y medical, lo que te permitirá un mayor conocimiento del negocio."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Química",
+            "QFB",
+            "Lic. Farmaceutica",
+            "Ing. Química",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Trial Capabilities",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Revisarás las autorizaciones emitidas por COFEPRIS a nuestros estudios clínicos para detectar si hay errores en ellas y serás el encargado de elaborar el trámite para solicitar las correcciones.",
+            "Serás el responsable de elaborar informes anuales que deben notificarse a COFEPRIS.",
+            "Revisión de los paquetes de sometimiento que se efectúan ante COFEPRIS para obtener la autorización de nuestros estudios clínicos.",
+            "responsable de efectuar revisiones de calidad de los Consentimientos Informados antes de que se compartan con los Centros de Investigación.",
+            "Archivarás documentación en el electronic Trial Master File (eTMF) de los estudios clínicos.",
+            "actualización de diversas bases de datos regulatorias",
+            "gestionar el proceso de traducciones con los terceros que trabajamos.",
+            "Gestionarías el proceso y logística de envío de contratos con los Centros de Investigación."
+        ],
+        "comentarios": null,
+        "carreras": [
+            "Ing. Química",
+            "Lic. Química",
+            "QFB",
+            "Lic. en Farmacia",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Sales Services Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Apoyo en el proceso de selección y evaluación de nuestros clientes del mercado privado.",
+            "Serás responsable de la continua validación de los clientes actuales, asegurándote y manteniendo en control la documentación para estar en cumplimiento con nuestros lineamientos internos.",
+            "Apoyo en la implementación y ejecución de programas comerciales con nuestros clientes y con las principales cadenas de farmacias de México",
+            "Contacto e influencia con diferentes áreas de la compañía para dar seguimiento al cumplimiento de los procesos del área"
+        ],
+        "comentarios": "Te interesa ser parte de la empresa farmacéutica más valiosa a nivel mundial y colaborar en una de sus marcas con la afiliada mexicana. Fuente: Bloomberg, 2023.\nEres una persona sociable que le gustaría estar en comunicación continua con clientes, así como con miembros internos de Lilly. \nEres una persona sumamente organizada, te gusta aprender continuamente, sobre herramientas para analizar data y/o automatización de procesos. ",
+        "carreras": [
+            "Administración",
+            "Economía",
+            "Actuaría",
+            "Ing. en Negocios",
+            "Ing. Gestión Empresarial",
+            "O afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Pro Meritum",
+        "vacante": "Arquitectx de Sistemas",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 0,
+        "actividades": [
+            "Análisis de requisitos técnicos y de negocio para que sean alcanzables y estén en línea con la arquitectura propuesta. ",
+            "Diseño de la arquitectura general de Sistemas de información.",
+            "Selección y mantenimiento de las tecnologías adecuadas para la implementación de la arquitectura.",
+            "Planificación de despliegue de proyectos / sistemas de información de Pro Meritum bajo la nueva arquitectura. ",
+            "Orientación y colaboración con el equipo de desarrollo, operaciones y seguridad (ref. ISO 27001) en la implementación de la arquitectura seleccionada. ",
+            "Revisión y validación de la coherencia del código con la arquitectura. ",
+            "Diseño de estrategia de pruebas que garantice la calidad del sistema. ",
+            "Identificación de nuevas tendencias tecnológicas para su evaluación e impacto en la arquitectura del sistema. "
+        ],
+        "comentarios": "La posición asume que se debe cubrir por una persona que tenga suficiente experiencia laboral  (en empresas de servicios profesionales (consultoría) o en los departamentos técnicos de clientes de cualquier sector. El nivel de experiencia requerido se puede obtener tras 3-5 años. ",
+        "carreras": [
+            "Ingeniería en Sistemas",
+            "Informática",
+            "Computación"
+        ],
+        "habilidades": [
+            "Bases de datos",
+            "Arquitectura de microservicios"
+        ]
+    },
+    {
+        "empresa": "Haleon",
+        "vacante": "Commercial Excellence Analytics Trainee",
+        "duracion": "24 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 18000,
+        "actividades": [
+            "Soportar en proyecto de Power BI por  país y regionales.",
+            "Liderar proyectos pequeños y medianos para que aprenda liderazgo y manejo proyectos.",
+            "Presentación de KPIs mensuales al equipo de Comex."
+        ],
+        "comentarios": ".Big Data | Analitico | Power BI",
+        "carreras": [
+            "Administración",
+            "Finanzas",
+            "Economía",
+            "Ingenierías",
+            "Sistemas"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Roche",
+        "vacante": "Marketing Intern",
+        "duracion": "9 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Liderar aprobación de material publicitario.",
+            "Asegurar disponibilidad de material promocional para el equipo de ventas.",
+            "Reforzar comunicación de mensajes promocionales y/o ejecución de campañas.",
+            "Gestión de proyectos."
+        ],
+        "comentarios": "DC",
+        "carreras": [
+            "Administración de Empresas",
+            "Mercadotecnia",
+            "Ingeniería Industrial",
+            "Negocios internacionales"
+        ],
+        "habilidades": [
+            "Gestión de proyectos"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Becarix de Finanzas ",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Seguimiento mensual y proyección anual de inversiones del presupuesto Influencers y relaciones publicas",
+            "Seguimiento mensual y proyección anual de inversiones en punto de venta enfocados en la fuerza de ventas propia de L’Oréal y proyectos con clientes en específico (ferias, concursos)",
+            "Análisis de retorno de inversión y rentabilidad de iniciativas ejecutadas en punta de venta (preevaluación y post evaluación)"
+        ],
+        "comentarios": "3 días presencial-2 HO\nCuriosidad y ganas por aprender , autodidacta, agilidad de aprendizaje. \nassessment, caso practico presencial. ",
+        "carreras": [
+            "Finanzas",
+            "Contabilidad",
+            "Administracion de empresas",
+            "Ing Industrial",
+            "Economía",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "SSO Finance Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Elaboración de órdenes de compra y seguimiento de los pagos de comités de ética, autoridad regulatoria y a los diferentes vendors externos del área.",
+            "Mantenimiento/ configuración de diferentes sistemas (CRM)",
+            "Elaboración de minutas",
+            "Estrecha comunicación con el área de Finanzas y Procurement de la compañía, local y globalmente.",
+            "Generar una base de datos con la documentación e información de los vendors",
+            "Seguimiento a proceso de facturación, conciliación ",
+            "Negociación con diversos hospitales"
+        ],
+        "comentarios": "Buen ingles conversacional, comprensión auditiva, conversación básica.\nmucho dinamismo, nociones y afinidades contables. \n3 dias presenciales (Martes a jueves) y 2 HO. depende de la demanda y necesidad. Horario puede llegar a ser flexible, solo notificar.",
+        "carreras": [
+            "Contabilidad",
+            "Finanzas",
+            "economia",
+            "administracion de empresas",
+            "Ing Industrial",
+            "Administracion Industrial",
+            "Negocios internacionales",
+            "Afin"
+        ],
+        "habilidades": [
+            "Conocimientos Contables"
+        ]
+    },
+    {
+        "empresa": "Doctoralia",
+        "vacante": "Becarix de Atracción de Talento ",
+        "duracion": "6 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Soporte a procesos de reclutamiento y selección (Sourcing de candidatos )",
+            "Realizar entrevistas por competencias (Inglés y español)",
+            "Contacto con líderes del negocio",
+            "Realizar entrega de reportes",
+            "Soporte en la organización y participación en onboarding"
+        ],
+        "comentarios": "Entregables: Cobertura de vacantes Entrega de reportes semanales, Onboarding de nuevos ingresos cada 15 días, Proyectos especiales de Reclutamiento\n\nUbicación: Doctoralia México, Avenida Boulevard Manuel Ávila Camacho. 118 piso 19, Col, Lomas de Chapultepec, Miguel Hidalgo, 11000 CDMX\n\nIngles: intermedio avanzado o avanzado, conversacional\n\nExcel: basico a intermedio",
+        "carreras": [
+            "Lic. Psicología",
+            "Lic. Administración",
+            "Lic. Recursos Humanos.",
+            "Ing. Gestión Empresarial",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Roche",
+        "vacante": "Becarix de Compras",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 7500,
+        "actividades": [
+            "Apoyo y seguimiento al proceso de Due Diligence.",
+            "Soporte en documentación de procesos de licitaciones.",
+            "Actualización de boletines en GDrive/GSite."
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Ingenieria industrial",
+            "negocios internacionales",
+            "Comercio y negocios",
+            "economía"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Google Suite",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Digital Marketing Apprentice I",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Soporte en la coordinación de agencias para crear y revisar materiales de campañas de mailing, social media y sitios web",
+            "Seguimiento interno a aprobaciones y tareas de proyectos para lanzar campañas de redes sociales, email marketing, videos y content marketing farmaceútico",
+            "Elaboración y análisis de reportes de marketing digital para la toma de decisión de optimización de campañas",
+            "Realizar presentaciones en inglés y español para alinear y coordinar proyectos con equipos crosfuncionales y regionales",
+            "Seguimiento a planes de trabajo para asegurar lanzamiento en tiempo coordinando gerentes de marca, gerentes médicos y sales operations."
+        ],
+        "comentarios": "Excel: Intermedio avanzado\nIngles: Intermedio avanzado o avanzado\nProactividad importante\nhorario vespertino en casos especiales: hasta la 1. ",
+        "carreras": [
+            "Marketing",
+            "Finanzas",
+            "Administración",
+            "Ingeniería",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Becarix Market Insights ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            "Carga y desarrollo de contratos ",
+            "Desarrollo de KPIs para esta actividad",
+            "Contribución a desarrollo de automatización de procesos",
+            "Carga de documentos",
+            "Generación de reportes"
+        ],
+        "comentarios": "2 presenciales \n7 a 1 horario matutino \nExcel: Tablas dinamicas, graficas\nfinalidad que el Intern pueda hacer licitaciones \nSensibilidad numérica, estudios de mercado ",
+        "carreras": [
+            "Negocios Internacionales",
+            "Administracion",
+            "Relaciones Comerciales",
+            "Marketing",
+            "Ing Industrial",
+            "Marketing estratégico",
+            "Afin"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Honeywell",
+        "vacante": "Engineering Practician",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Apoyar en el diseño y ejecución de proyectos de automatización y control en la región.",
+            "Implementar Dashboards para impulsar diferentes indicadores.",
+            "Preparar documentación de ingeniería.",
+            "Desarrollo de base de datos."
+        ],
+        "comentarios": "El depto. se encarga de la ejecución de proyectos de automatización, y control, 5 pasos, una vez que reciben la orden de compra y sobre la necesidad del cliente, hacen un diseño del proyecto de la solución, después la documentación de ingeniería de la solución, configuración de los sistemas, preparar pruebas con el cliente, poderles demostrar que todo está de acuerdo a lo solicitado, implementar el proyecto en el sitio (el becario no realizaría esta actividad)",
+        "carreras": [
+            "Ing. en Sistemas",
+            "Ing. en Mecatrónica",
+            "Ing. Electrónica",
+            "Ing. Informática"
+        ],
+        "habilidades": [
+            "Macros",
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Suburbia",
+        "vacante": "Becarix de Gestión y Analisis de datos ",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Presencial",
+        "sueldo": 8250,
+        "actividades": [
+            "Configuración de la plataforma de aprendizaje",
+            "Asignación de roles y permisos en plataformas de aprendizaje",
+            "Proporcionar asistencia técnica a usuarios",
+            "Resolución de problemas técnicos de plataformas de aprendizaje",
+            "Gestión de cuentas de usuarios en plataformas de aprendizaje",
+            "Generación de reportes para el analisis del uso de plataforma"
+        ],
+        "comentarios": "Anexar prueba Excel\nformulas , tablas dinamicas, pivot",
+        "carreras": [
+            "Administracion de empresas",
+            "Contaduria",
+            "Economia",
+            "Finanzas",
+            "Psicología",
+            "Inteligencia de datos",
+            "TI",
+            "Sistemas computacionales",
+            "Afin"
+        ],
+        "habilidades": [
+            "Analisis de datos",
+            "plataformas de aprendizaje"
+        ]
+    },
+    {
+        "empresa": "Pro Meritum",
+        "vacante": "Trainee de Desarrollo",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 12000,
+        "actividades": [
+            "Colaborar con el equipo de Desarrollo para implementar mejoras y correcciones.",
+            "Realizar pruebas para garantizar el correcto funcionamiento.",
+            "Evaluar la experiencia del usuario y proponer mejoras centradas en la usabilidad.",
+            "Identificar áreas de mejora en el rendimiento de las aplicaciones y sitios web.",
+            "Mantener documentación detallada de desarrollos, cambios y mejoras.",
+            "Contribuir en revisiones de código y participar en la planificación y diseño de nuevos proyectos web.",
+            "Realizar respaldos de información y ejecutar sesiones de pruebas de restauración.",
+            "Brindar soporte en solicitudes de ABCC (alta, baja, cambio y consulta) a base de datos.",
+            "Atención a bugs de plataformas tecnológicas.",
+            "Comprender el funcionamiento de software de terceros y realizar integraciones según sea necesario.",
+            "Seguimiento a proyectos y uso de software de terceros para garantizar condiciones óptimas y correcto funcionamiento."
+        ],
+        "comentarios": "Se les pedirá un video a lxs candidatxs. ",
+        "carreras": [
+            "Informática",
+            "Ingeniería en Sistemas Computacionales",
+            "Desarrollo Web"
+        ],
+        "habilidades": [
+            "Java Script",
+            "MEVN Stack",
+            "MongoDB / Mongoose",
+            "Express / Hapi",
+            "Vue o cualquier framework",
+            "Node"
+        ]
+    },
+    {
+        "empresa": "Pro Meritum",
+        "vacante": "Becarix Comercial",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8000,
+        "actividades": [
+            "Cold Calling: Realizar llamadas en frío a prospectos para identificar oportunidades de negocio.",
+            "Cold Mailing: Enviar correos electrónicos personalizados a prospectos para generar interés en los productos o servicios de la empresa.",
+            "Redes Sociales: Utilizar plataformas como LinkedIn para buscar clientes potenciales y establecer conexiones.",
+            "Eventos y Ferias Comerciales: Participar en eventos de la industria para conocer a prospectos potenciales en persona.",
+            "Referral Marketing: Solicitar referencias de clientes actuales o contactos profesionales."
+        ],
+        "comentarios": "-",
+        "carreras": [
+            "Negocios Internacionales",
+            "Mercadotecnia",
+            "Ingeniería Comercial"
+        ],
+        "habilidades": [
+            "CRM"
+        ]
+    },
+    {
+        "empresa": "L´Oréal",
+        "vacante": "Product Development Intern",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Follow Up de iniciativas para proyecciones de disponibilidad de material: manejo de recursos.",
+            "Análisis de costos para la toma de decisiones.",
+            "Alineación y priorización dentro de la estrategia para mercados emergentes.",
+            "Estrategia para optimización de costos y proceso.",
+            "Realizar proyecciones de costo y de margen bruto.",
+            "Actividades de gestión de tiempo para el desarrollo de proyectos de diseño y lanzamiento de producto."
+        ],
+        "comentarios": "- Tecnologías de impresión (deseable)\n- Entrega 1 de abril.\n- Project management.",
+        "carreras": [
+            "Diseño Industrial",
+            "Ingeniería Industrial",
+            "Innovación y diseño",
+            "O Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Grupo Peñafiel",
+        "vacante": "Becarix de Compras ",
+        "duracion": "24 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 7000,
+        "actividades": [
+            "Solicitud y seguimiento al cumplimiento de parte de proveedores.",
+            "Administración y archivo de información legal y fiscal de proveedores",
+            "Búsqueda y contacto a nuevos proveedores para las diversas categorías de compras de servicios logísticos.",
+            "Administración y configuración de usuarios dentro de sistema interno.",
+            "Bajar reportes en SAP."
+        ],
+        "comentarios": "Enfocado a compras directas (materias primas) ",
+        "carreras": [
+            "Comercio Internacional",
+            "Negocios Internacionales",
+            "Ing. Industrial",
+            "Administración"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "CINLAT Logistics",
+        "vacante": "Customer Experience Intern ",
+        "duracion": "12 meses",
+        "lugar": "Iztapalapa",
+        "modalidad": "Presencial",
+        "sueldo": 8000,
+        "actividades": [
+            "Proporcionar asesoramiento a los clientes sobre los servicios y productos de la empresa.",
+            "Registrar y procesar órdenes de envío, verificar la información del cliente y coordinar la preparación de los envíos.",
+            "Colaborar internamente con otros departamentos para garantizar una ejecución eficiente de los envíos.",
+            "Brindar apoyo en el proceso de logística con la elaboración de documentos de envío, facturas, etiquetas, entre otros."
+        ],
+        "comentarios": "Habrá un día a la semana de Home Office.",
+        "carreras": [
+            "Mercadotecnia",
+            "Relaciones comerciales",
+            "Administración",
+            "Relaciones Internacionales",
+            "Ing. Industrial",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Edgewell Personal Care",
+        "vacante": "Marketing Intern  ",
+        "duracion": "24 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Híbrido",
+        "sueldo": 7000,
+        "actividades": [
+            "Seguimiento y control de proyectos solicitud de MKT o Comercial",
+            "Seguimiento y control de presupuesto",
+            "Organización de la logística del material de marketing",
+            "Ordenes de compra",
+            "Investigación de la competencia",
+            "Apoyo en la planificación y control de lanzamientos y relanzamientos del portafolio de productos.",
+            "Análisis de datos, elaboración de informes y presentaciones",
+            "Colaborar en la organización de eventos con clientes",
+            "Tomar fotografías de producto"
+        ],
+        "comentarios": "Analítico, organizado. \nReporta a México y nivel LATAM. \nHO L y V, \n6hrs corridas.",
+        "carreras": [
+            "Mercadotecnia",
+            "Administración de empresas",
+            "Ingeniería industrial"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "SAP"
+        ]
+    },
+    {
+        "empresa": "Germination",
+        "vacante": "Practicante de Gestión Administrativa ",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8830,
+        "actividades": [
+            "Soporte administrativo para gestión de eventos",
+            "Seguimiento a contratos y actividades médicas.",
+            "Manejo de bases de datos",
+            "Relacionamiento con clientes externos (médicos)"
+        ],
+        "comentarios": "Martes y Jueves en Oficina y horarios flexibles.\nKaren Andrade. karen.andrade@bayer.com | 5531192874 | División: Pharma | Área: TA | CeCo: MX08H10088 CWID: GIBXY | Entregar perfiles conforme los vayamos teniendo. ",
+        "carreras": [
+            "Administración de Empresas",
+            "Gestión empresarial",
+            "Ingeniería industrial",
+            "Negocios Internacionales",
+            "Afines"
+        ],
+        "habilidades": [
+            "Administración de información",
+            "Paquetería Office",
+            "Manejo y Análisis de bases de datos"
+        ]
+    },
+    {
+        "empresa": "Suburbia",
+        "vacante": "Becarix Productividad y Proyectos ",
+        "duracion": "12 meses",
+        "lugar": "Cuajimalpa de Morelos",
+        "modalidad": "Híbrido",
+        "sueldo": 8250,
+        "actividades": [
+            "Seguimiento a proyectos de RH",
+            "Gestión de proyectos",
+            "Entregables clave",
+            "Análisis de bases de datos y creación de KPIs"
+        ],
+        "comentarios": "Se corroborará nivel de Excel.\n",
+        "carreras": [
+            "Psicología Organizacional",
+            "Estadística",
+            "Ingeniería Industrial",
+            "Administración",
+            "Ing en Procesos",
+            "Ing en sistemas",
+            "Afin"
+        ],
+        "habilidades": [
+            "Excel",
+            "Seguimiento a procesos",
+            "Gestión de proyectos"
+        ]
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Quality Process Optimization Intern  ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            " Apoyo en estandarización de seguimiento de procesos, trackers y comunicación interna.",
+            "Apoyo en la evaluación de las principales actividades que impactan los KPIs en Oportunidad y Precisión.",
+            "Soporte a proyectos de mejora continua, colaborar en iniciativas digitales y su documentación hasta su implementación.",
+            "Seguimiento a indicadores",
+            "Optimización de procesos "
+        ],
+        "comentarios": "3 dias presenciales jueves obligatorio y los otros 2 dias flexible\nHorario flexible\nExcel tablas dinamicas\ndeseable Power BI\nB2 en adelante. \nRegulación ",
+        "carreras": [
+            "QFB",
+            "QBP",
+            "QFI",
+            "Ing Quimica",
+            "Ing. industrial",
+            "Afin"
+        ],
+        "habilidades": [
+            "Programación",
+            "Analisis de datos"
+        ]
+    },
+    {
+        "empresa": "MSD México",
+        "vacante": "Marketing Intern",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Apoyo en los Materiales promocionales.",
+            "Soporte en los de flujos para eventos de Marketing.",
+            "Análisis de data (Market shares, crecimientos, tendencias).",
+            "Apoyo en los flujos para campañas digitales."
+        ],
+        "comentarios": "\nDarle seguimiento a los procesos. Organización.\nPresencial: 2\nHO: 3\nExcel: base de datos, formatos.\nInglés: Intermedio (lectura, speaking y listening)\nEquipo: Líder directo (JP), Interacción con el área médica y gerentes de productos. \nFiltros en MSD: 1 filtro con su líder. ",
+        "carreras": [
+            "Marketing",
+            "Economía",
+            "Ingenierías",
+            "Afines"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Quality Process Optimization Intern ",
+        "duracion": "12 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            " Apoyo en estandarización de seguimiento de procesos, trackers y comunicación interna.",
+            "Apoyo en la evaluación de las principales actividades que impactan los KPIs en Oportunidad y Precisión.",
+            "Soporte a proyectos de mejora continua, colaborar en iniciativas digitales y su documentación hasta su implementación.",
+            "Seguimiento a indicadores",
+            "Optimización de procesos "
+        ],
+        "comentarios": "3 dias presenciales jueves obligatorio y los otros 2 dias flexible\nHorario flexible\nExcel tablas dinamicas\ndeseable Power BI\nB2 en adelante. \nRegulación ",
+        "carreras": [
+            "QFB",
+            "QBP",
+            "QFI",
+            "Ing Quimica",
+            "Ing. industrial",
+            "Afin"
+        ],
+        "habilidades": [
+            "Programación",
+            "Analisis de datos"
+        ]
+    },
+    {
+        "empresa": "Novartis",
+        "vacante": "Becarix Marketing ",
+        "duracion": "18 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6645,
+        "actividades": [
+            " Creación de materiales promocionales efectivos y coherentes para el equipo de campo.",
+            "Seguimiento y coordinación de eventos con médicos, asegurando una participación exitosa y logística impecable.",
+            "Realización de seguimiento y análisis de datos relacionados con médicos, identificando oportunidades y tendencias para que el equipo en campo pueda accionar. ",
+            "Seguimiento a materiales "
+        ],
+        "comentarios": "martes/miércoles/ jueves presencial. \n50% estratégico 50% creativo\nregistro de ventas, muchas ganas de aprender, compromiso",
+        "carreras": [
+            "Administración",
+            "Ingeniería Industrial",
+            "Marketing",
+            "Finanzas",
+            "Economía",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Compañía Farmacéutica (AZ)",
+        "vacante": "Becarix de Proyectos ",
+        "duracion": "12 meses",
+        "lugar": "Tlalpan",
+        "modalidad": "Híbrido",
+        "sueldo": 7000,
+        "actividades": [
+            "Apoyo en creación de presentaciones.",
+            "Apoyo en aprobación de materiales promocionales, y aprobaciones de Veeva.",
+            "Gestión y seguimiento a los proyectos del área.",
+            "Apoyo administrativo al área."
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Administración",
+            "Ing. Industrial",
+            "Mercadotecnia",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Danone",
+        "vacante": "Packaging Jr Mgr",
+        "duracion": "24 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 28000,
+        "actividades": [
+            "Realizar Análisis de Mercado.",
+            "Optimización de procesos y productividad mediante análisis de necesidades o de licitaciones/negociación o desarrollo de proveedores. ",
+            "Contacta y se alinea con la gestión global de categorías. ",
+            "Monitorear los resultados a través de la medición de KPIs Internos. ",
+            "Líder de implementaciones de proyectos entre categorías que impactan a las diferentes áreas.",
+            "Desarrolla la función de compras para asegurar el alcance total y evidenciar el rol e impacto financiero del área en el P&L. "
+        ],
+        "comentarios": "Mentor: Regina Trujillo (regina.trujillo@danone.com, 55 51 80 62 79) y María Dominique Méndez (maria.mendez@danone.com).\nPowerBI / Data Intelligence \nERP  (Deseable) \nManejo de abasto ej. Coupa / Zycus /Ariba /Jaggaer (Deseable)  ",
+        "carreras": [
+            "Actuaría",
+            "Ingeniería Industrial",
+            "Administración",
+            "Negocios",
+            "Afines"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Swiss Re",
+        "vacante": "Technical Accounting Intern",
+        "duracion": "6 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Híbrido",
+        "sueldo": 6900,
+        "actividades": [
+            "Contabilidad, análisis de cuentas vs condiciones contractuales",
+            "Apoyo en análisis y manejo de bases de datos, mantenimiento y limpieza de sistemas",
+            "Generación de reportes, apoyo en procesos de automatización y simplificación de procesos (creación de dashboards, macros)"
+        ],
+        "comentarios": ".",
+        "carreras": [
+            "Economía",
+            "Actuaría",
+            "Administración",
+            "Finanzas",
+            "Ingenieras",
+            "Contabilidad"
+        ],
+        "habilidades": [
+            "Power BI"
+        ]
+    },
+    {
+        "empresa": "Lilly",
+        "vacante": "Marketing Operations Intern",
+        "duracion": "18 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 8500,
+        "actividades": [
+            "Participar en trabajos multidisciplinarios con otros equipos de marketing y ventas para alinear estrategias de materiales promocionales.",
+            "Dar soporte al desarrollo e implementación de enfoques innovadores para mejorar la efectividad de los materiales promocionales.",
+            "Trabajarás estrechamente con diferentes stakeholders para alinear estrategias de materiales promocionales con los objetivos generales de marketing al consumidor.",
+            "Realizar análisis de datos relacionados con materiales promocionales"
+        ],
+        "comentarios": "orientado a la acción con un alto sentido de urgencia.\nExcel: Intermedio avanzado.\nIngles: Intermedio avanzado y avanzado\nProactividad, que le gusten los retos.\nEntusiasmo por laborar y que conozcan sobre lilly.",
+        "carreras": [
+            "Marketing",
+            "Finanzas",
+            "Ingenierías",
+            "Administración",
+            "o afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Korn Ferry",
+        "vacante": "Becarix de Consultoría",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 9125,
+        "actividades": [
+            "Llevar a cabo investigaciones secundarias, analizar y manipular datos, elaborar informes para proporcionar conocimientos y perspectivas.",
+            "Compartir información transaccional, responder a preguntas básicas sobre datos o informes, compartir y solicitar datos. ",
+            "Interpretar análisis/datos para clientes directamente con el fin de promover los objetivos del proyecto y/o la relación con KF Advisory. "
+        ],
+        "comentarios": "Interés en Capital Humano.",
+        "carreras": [
+            "Ing. Industrial",
+            "Admnistración",
+            "Economía",
+            "Actuaría",
+            "Finanzas",
+            "Contaduría",
+            "Afín"
+        ],
+        "habilidades": []
+    },
+    {
+        "empresa": "Empresa Aliada",
+        "vacante": "People Development and Learning Intern",
+        "duracion": "12 meses",
+        "lugar": "Coyoacán",
+        "modalidad": "Híbrido",
+        "sueldo": 7285,
+        "actividades": [
+            "Seguimiento a programas de formación.",
+            "Evaluación y contacto con proveedores.",
+            "Actualización y análisis de bases de datos.",
+            "Diseño y elaboración de presentaciones para los programas y reporte de resultados.",
+            "Planeación y organización de eventos del área."
+        ],
+        "comentarios": "- 2 entrevistas para el proceso, jueves 22. - Interés en RH, muy proactivo.",
+        "carreras": [
+            "Administración",
+            "Recursos Humanos",
+            "Ingeniería Industrial",
+            "o afín"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Element Fleet",
+        "vacante": "Becarix de Riesgo",
+        "duracion": "6 meses",
+        "lugar": "Álvaro Obregón",
+        "modalidad": "Presencial",
+        "sueldo": 12000,
+        "actividades": [
+            "Registro de información en sistemas internos con oportunidad y calidad.",
+            "Comprensión e interpretación de información.",
+            "Revisión de información para validar que cumple con las políticas internas de control. (Productos, servicios, plazos, montos, vigencias, topes mínimos, topes máximos, etc.).",
+            "Análisis de procesos internos con enfoque en la mejora continua de los mismos.",
+            "Registro de actividad en bitácoras para elaboración de métricas."
+        ],
+        "comentarios": "Flexibilidad de horario. Área de control. Seguimiento a procesos. Capacitación continua. Garantizando lineamientos de EF. Mesa de control.\nExcel: fórmulas, manejo de datos, tablas dinámicas. \nInglés: Intermedio (deseable)\nEquipo: Líder directo César R. 4 colaboradores más.\nFiltros: 3 entrevistas en total. ",
+        "carreras": [
+            "Economía",
+            "Contaduría",
+            "Administración",
+            "Ingeniería",
+            "Afines"
+        ],
+        "habilidades": [
+            "Paquetería Office"
+        ]
+    },
+    {
+        "empresa": "Germination",
+        "vacante": "Practicante de Mejora de Procesos (Customer Support)",
+        "duracion": "18 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8830,
+        "actividades": [
+            "Mejora en el proceso administrativo y comercial de documentos y procesos del área.",
+            "Digitalización  y automatización de procesos del área de Radiología para reducir la actividad manual.",
+            "Apoyo en el registros y trámites administrativos en la gestión de inyectores,  propuestas comerciales y archivo de evidencias comerciales."
+        ],
+        "comentarios": "Nombre: Indra Bazán\nCorreo electrónico: indra.bazan@bayer.com \nDivisión: Pharmaceuticals\nÁrea: Customer Support/División Radiología\nCeCo: MX65H10103 \nCWID: MEBAZ\nHerramientas: Laptop",
+        "carreras": [
+            "Tecnologías de la Información",
+            "Ingeniería en Sistemas Computacionales",
+            "Ingeniería en Tecnologías de la Información y Comunicaciones",
+            "Ingeniería Industrial",
+            "Ciencia de datos"
+        ],
+        "habilidades": [
+            "Paquetería Office",
+            "Power Automate",
+            "SQL",
+            "Sharepoint",
+            "Análisis y manejo de bases de datos"
+        ]
+    },
+    {
+        "empresa": "Philip Morris International",
+        "vacante": "Commercial Planning Intern",
+        "duracion": "12 meses",
+        "lugar": "Miguel Hidalgo",
+        "modalidad": "Híbrido",
+        "sueldo": 8300,
+        "actividades": [
+            "Seguimiento a iniciativas con  stakeholders para asegurar la correcta implementación.",
+            "Seguimiento a implementación y reporte de resultados de los KPIs: Ejecución de calidad y encuesta de satisfacción al cliente.",
+            "Seguimiento y reporte de aprobación de materiales por parte de cadenas. ",
+            "Implementación de best practices y mejoras."
+        ],
+        "comentarios": "Miércoles y jueves días presenciales ",
+        "carreras": [
+            "Ing. Industrial",
+            "Marketing",
+            "Administración",
+            "Afín"
+        ],
+        "habilidades": []
+    }
+]
